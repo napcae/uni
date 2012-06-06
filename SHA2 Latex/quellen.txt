@@ -28,3 +28,6 @@
 
 10) http://wolfgang.dautermann.at/vortraege/CLT2010-Hashfunktionen.pdf
 #hashes allgemein, pdf latex präsentation
+
+11) http://www.heise.de/security/meldung/Windows-Update-kompromittiert-1605393.html
+#kollision windows flame md5
