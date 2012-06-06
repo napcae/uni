@@ -2,15 +2,17 @@
 \beamer@sectionintoc {1}{\scshape Einf\active@dq \dq@prtct {u}hrung}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Was ist ein Hash?}{3}{0}{1}
 \beamer@sectionintoc {2}{\scshape Geschichte}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{SHA-0}{6}{0}{2}
-\beamer@subsectionintoc {2}{2}{SHA-1}{8}{0}{2}
-\beamer@subsectionintoc {2}{3}{SHA-2}{9}{0}{2}
-\beamer@subsectionintoc {2}{4}{eig}{10}{0}{2}
-\beamer@sectionintoc {3}{\scshape Implementierung}{11}{0}{3}
-\beamer@subsectionintoc {3}{1}{Algorithmus}{11}{0}{3}
-\beamer@subsectionintoc {3}{2}{Pseudocode}{13}{0}{3}
-\beamer@sectionintoc {4}{\scshape Anwendung}{14}{0}{4}
-\beamer@subsectionintoc {4}{1}{Verwendungszweck}{14}{0}{4}
-\beamer@subsectionintoc {4}{2}{Sicherheitsl\active@dq \dq@prtct {u}cken}{15}{0}{4}
-\beamer@sectionintoc {5}{\scshape Ausblick}{16}{0}{5}
-\beamer@subsectionintoc {5}{1}{SHA-3}{16}{0}{5}
+\beamer@subsectionintoc {2}{1}{SHA}{6}{0}{2}
+\beamer@sectionintoc {3}{\scshape Geschichte}{8}{0}{3}
+\beamer@subsectionintoc {3}{1}{SHA-0}{8}{0}{3}
+\beamer@subsectionintoc {3}{2}{SHA-1}{10}{0}{3}
+\beamer@subsectionintoc {3}{3}{SHA-2}{11}{0}{3}
+\beamer@subsectionintoc {3}{4}{eig}{12}{0}{3}
+\beamer@sectionintoc {4}{\scshape Implementierung}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{Algorithmus}{13}{0}{4}
+\beamer@subsectionintoc {4}{2}{Pseudocode}{15}{0}{4}
+\beamer@sectionintoc {5}{\scshape Anwendung}{16}{0}{5}
+\beamer@subsectionintoc {5}{1}{Verwendungszweck}{16}{0}{5}
+\beamer@subsectionintoc {5}{2}{Sicherheitsl\active@dq \dq@prtct {u}cken}{17}{0}{5}
+\beamer@sectionintoc {6}{\scshape Ausblick}{18}{0}{6}
+\beamer@subsectionintoc {6}{1}{SHA-3}{18}{0}{6}
