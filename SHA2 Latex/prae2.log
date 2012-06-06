@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  5 JUN 2012 14:30
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  6 JUN 2012 11:18
 entering extended mode
 **prae2.tex
-("C:\Users\ctrungng\Documents\sha2\Neuer Ordner\prae2.tex"
+("C:\Users\ctrungng\Documents\GitHub\uni\SHA2 Latex\prae2.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -822,7 +822,7 @@ Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\palatino.sty"
 Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Users\ctrungng\Documents\sha2\Neuer Ordner\prae2.aux")
+("C:\Users\ctrungng\Documents\GitHub\uni\SHA2 Latex\prae2.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
@@ -905,8 +905,8 @@ LaTeX Info: Redefining \ref on input line 53.
 LaTeX Info: Redefining \pageref on input line 53.
 LaTeX Info: Redefining \nameref on input line 53.
 
-("C:\Users\ctrungng\Documents\sha2\Neuer Ordner\prae2.out")
-("C:\Users\ctrungng\Documents\sha2\Neuer Ordner\prae2.out")
+("C:\Users\ctrungng\Documents\GitHub\uni\SHA2 Latex\prae2.out")
+("C:\Users\ctrungng\Documents\GitHub\uni\SHA2 Latex\prae2.out")
 \@outlinefile=\write5
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
@@ -973,7 +973,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 53.
 
-("C:\Users\ctrungng\Documents\sha2\Neuer Ordner\prae2.nav")
+("C:\Users\ctrungng\Documents\GitHub\uni\SHA2 Latex\prae2.nav")
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 74.
@@ -985,10 +985,7 @@ Overfull \vbox (10.53484pt too high) detected at line 74
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-("C:\Users\ctrungng\Documents\sha2\Neuer Ordner\prae2.toc"
-Missing character: There is no Ã in font pplr7t!
-Missing character: There is no ¼ in font pplr7t!
-) [2
+("C:\Users\ctrungng\Documents\GitHub\uni\SHA2 Latex\prae2.toc") [2
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 100.
@@ -1032,12 +1029,12 @@ Package pdftex.def Info: sha256.png used on input line 175.
 
 [12
 
- <C:/Users/ctrungng/Documents/sha2/Neuer Ordner/sha256.png>] [13
-
-] [14
+ <C:/Users/ctrungng/Documents/GitHub/uni/SHA2 Latex/sha256.png>] [13
 
 ]
-[15
+[14
+
+] [15
 
 ] [16
 
@@ -1047,24 +1044,17 @@ Package pdftex.def Info: sha256.png used on input line 175.
 \tf@snm=\write8
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
- ("C:\Users\ctrungng\Documents\sha2\Neuer Ordner\prae2.aux")
+ ("C:\Users\ctrungng\Documents\GitHub\uni\SHA2 Latex\prae2.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
-
-
-Package rerunfilecheck Warning: File `prae2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `prae2.out':
-(rerunfilecheck)             Before: D0023AEB86D1C42776EF16BDD083E14A;842
-(rerunfilecheck)             After:  DE2B277477F5599655769EF5E9DA827C;844.
+Package rerunfilecheck Info: File `prae2.out' has not changed.
+(rerunfilecheck)             Checksum: DE2B277477F5599655769EF5E9DA827C;844.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  ) 
 Here is how much of TeX's memory you used:
  18669 strings out of 494045
- 361773 string characters out of 3145961
- 504592 words of memory out of 3000000
+ 361833 string characters out of 3145961
+ 504598 words of memory out of 3000000
  21464 multiletter control sequences out of 15000+200000
  24245 words of font info for 68 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -1078,7 +1068,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Fil
 es (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on prae2.pdf (16 pages, 268349 bytes).
+Output written on prae2.pdf (16 pages, 268376 bytes).
 PDF statistics:
  832 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
