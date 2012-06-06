@@ -31,3 +31,6 @@
 
 11) http://www.heise.de/security/meldung/Windows-Update-kompromittiert-1605393.html
 #kollision windows flame md5
+
+12) http://www.uni-weimar.de/cms/fileadmin/medien/medsicherheit/Teaching/SS09/Projekt__Implementation/skein_talk-1.pdf
+#skein, sha3 finalist
