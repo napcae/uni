@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  10 JUN 2012 16:11
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  11 JUN 2012 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -669,9 +669,6 @@ File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
 \Zweitgutachter=\box35
 
-
-pdfTeX warning: pdflatex (file ./logos/HFTL_Deckblatt.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
 <logos/HFTL_Deckblatt.pdf, id=104, 597.19112pt x 845.07718pt>
 File: logos/HFTL_Deckblatt.pdf Graphic file (type pdf)
 
@@ -679,11 +676,11 @@ File: logos/HFTL_Deckblatt.pdf Graphic file (type pdf)
 Package pdftex.def Info: logos/HFTL_Deckblatt.pdf used on input line 15.
 (pdftex.def)             Requested size: 597.50787pt x 845.52643pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 40.
+(Font)              <12> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 40.
+(Font)              <8> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 40.
+(Font)              <6> on input line 39.
  [1
 
 
@@ -741,6 +738,10 @@ Kapitel 2.
 
 ]
 Kapitel 3.
+
+Package natbib Warning: Citation `OffSpec' on page 5 undefined on input line 14
+.
+
 
 Package natbib Warning: Citation `TB2000' on page 5 undefined on input line 39.
 
@@ -817,10 +818,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
  ) 
 Here is how much of TeX's memory you used:
- 7604 strings out of 493633
- 106104 string characters out of 3143378
- 206597 words of memory out of 3000000
- 10641 multiletter control sequences out of 15000+200000
+ 7605 strings out of 493633
+ 106113 string characters out of 3143378
+ 206610 words of memory out of 3000000
+ 10642 multiletter control sequences out of 15000+200000
  35283 words of font info for 65 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  41i,11n,45p,320b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -831,10 +832,10 @@ usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></u
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
 usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></u
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (24 pages, 78676750 bytes).
+Output written on thesis.pdf (24 pages, 658441 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
+ 297 PDF objects out of 1000 (max. 8388607)
+ 252 compressed objects within 3 object streams
  52 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
