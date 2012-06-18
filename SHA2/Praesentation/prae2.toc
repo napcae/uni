@@ -12,6 +12,6 @@
 \beamer@subsectionintoc {3}{2}{Pseudocode}{15}{0}{3}
 \beamer@sectionintoc {4}{\scshape Anwendung}{16}{0}{4}
 \beamer@subsectionintoc {4}{1}{Verwendungszweck}{16}{0}{4}
-\beamer@subsectionintoc {4}{2}{Sicherheitsl\active@dq \dq@prtct {u}cken}{17}{0}{4}
-\beamer@sectionintoc {5}{\scshape Ausblick}{18}{0}{5}
-\beamer@subsectionintoc {5}{1}{SHA-3}{18}{0}{5}
+\beamer@subsectionintoc {4}{2}{Sicherheitsl\active@dq \dq@prtct {u}cken}{19}{0}{4}
+\beamer@sectionintoc {5}{\scshape Ausblick}{20}{0}{5}
+\beamer@subsectionintoc {5}{1}{SHA-3}{20}{0}{5}
