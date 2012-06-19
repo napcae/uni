@@ -255,10 +255,14 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \begin{itemize}
 
 \item 
-\texttt{for $i=16$ to $63$ \{ \\
-        $s0$ := ($w[i-15]$ rightrotate $7$) xor ($w[i-15]$ rightrotate $18$) xor ($w[i-15]$ rightshift $3$) \\
-        $s1$ := ($w[i-2]$ rightrotate $17$) xor ($w[i-2]$ rightrotate $19$) xor (w[i-2] rightshift 10)
-        w[i] := w[i-16] + s0 + w[i-7] + s1\}\\}
+\texttt{for $i=16$ to $63$ \{}
+		 \begin{itemize}
+		 \item $s0$ := ($w[i-15]$ rightrotate $7$) xor ($w[i-15]$ rightrotate $18$) xor ($w[i-15]$ rightshift $3$) \newline
+        \item $s1$ := ($w[i-2]$ rightrotate $17$) xor ($w[i-2]$ rightrotate $19$) xor ($w[i-2]$ rightshift $10$) \newline
+        \item $w[i]$ := $w[i-16]$ + $s0$ + $w[i-7]$ + $s1$ \newline \}
+		 \end{itemize}
+		 %%aufschreiben was ist rechtsrotate,was ist rechtsshift + was ist das padding(?) erklären können!
+         
 \end{itemize}
 
 
