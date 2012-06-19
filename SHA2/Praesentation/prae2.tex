@@ -14,8 +14,7 @@
 \usepackage{tikz}
 \usepackage{german}
 \usetikzlibrary{decorations.fractals}
-\tolerance=9000 %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\setbeameroption{show notes on second screen=left}
 
 %% Beamer Layout %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -290,29 +289,49 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \texttt{for $i=0$ to $63$ \{} \\
 \begin{itemize}[]
 \item[]
-    \texttt{$S0$ := ($a$ rightrotate $2$) xor ($a$ rightrotate $13$) xor ($a$ rightrotate $22$)} \\
+    \texttt{$S0$ := ($a$ rightrotate $2$) xor ($a$ rightrotate $13$) xor ($a$ rightrotate $22$)} \pause 
 \item[]
-	\texttt{$maj$ := ($a$ and $b$) xor ($a$ and $c$) xor ($b$ and $c$)} \\
+	\texttt{$maj$ := ($a$ and $b$) xor ($a$ and $c$) xor ($b$ and $c$)}\pause 
 \item[]
-	\texttt{$t2$ := $S0$ + $maj$}
+	\texttt{$t2$ := $S0$ + $maj$} \pause
 \item[]
-	\texttt{$S1$ := ($e$ rightrotate $6$) xor ($e$ rightrotate $11$) xor ($e$ rightrotate $25$)} \\
+	\texttt{$S1$ := ($e$ rightrotate $6$) xor ($e$ rightrotate $11$) xor ($e$ rightrotate $25$)} \pause
 \item[]
-	\texttt{$ch$ := ($e$ and $f$) xor ((not $e$) and $g$)} \\
-        t1 := h + S1 + ch + k[i] + w[i]
-
-        h := g
-        g := f
-        f := e
-        e := d + t1
-        d := c
-        c := b
-        b := a
-        a := t1 + t2
+	\texttt{$ch$ := ($e$ and $f$) xor ((not $e$) and $g$)} \pause
+\item[]
+	\texttt{$t1$ := $h$ + $S1$ + $ch$ + $k[i]$ + $w[i]$} \pause
+\item[]
+        $h$ := $g$ \\
+        $g$ := $f$ \\
+        $f$ := $e$ \\
+        $e$ := $d$ + $t1$ \\
+        $d$ := $c$ \\
+        $c$ := $b$ \\
+        $b$ := $a$ \\
+        $a$ := $t1$ + $t2$
 \end{itemize}
 
 \end{itemize}
 
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Pseudocode5}
+\begin{frame}{Hauptschleife}
+\texttt{$h0$ := $h0$ + $a$ \\
+    $h1$ := $h1$ + $b$ \\
+    $h2$ := $h2$ + $c$ \\
+    $h3$ := $h3$ + $d$ \\
+    $h4$ := $h4$ + $e$ \\
+    $h5$ := $h5$ + $f$ \\
+    $h6$ := $h6$ + $g$ \\
+    $h7$ := $h7$ + $h$} \newline \} \newline \} $//Ende$ $der$ $foreach$-$Schleife$
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Pseudocode6}
+\begin{frame}{Ausgabe}
+\texttt{digest = hash = $h0$ append $h1$ append $h2$ append $h3$ append $h4$ append $h5$ append $h6$ append $h7$}
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
