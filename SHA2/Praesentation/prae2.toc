@@ -10,8 +10,9 @@
 \beamer@sectionintoc {3}{\scshape Implementierung}{15}{0}{3}
 \beamer@subsectionintoc {3}{1}{Algorithmus}{15}{0}{3}
 \beamer@subsectionintoc {3}{2}{Pseudocode}{17}{0}{3}
-\beamer@sectionintoc {4}{\scshape Anwendung}{18}{0}{4}
-\beamer@subsectionintoc {4}{1}{Verwendungszweck}{18}{0}{4}
-\beamer@subsectionintoc {4}{2}{Sicherheitsl\active@dq \dq@prtct {u}cken}{21}{0}{4}
-\beamer@sectionintoc {5}{\scshape Ausblick}{22}{0}{5}
-\beamer@subsectionintoc {5}{1}{SHA-3}{22}{0}{5}
+\beamer@subsectionintoc {3}{3}{Pseudocode2}{18}{0}{3}
+\beamer@sectionintoc {4}{\scshape Anwendung}{19}{0}{4}
+\beamer@subsectionintoc {4}{1}{Verwendungszweck}{19}{0}{4}
+\beamer@subsectionintoc {4}{2}{Sicherheitsl\active@dq \dq@prtct {u}cken}{22}{0}{4}
+\beamer@sectionintoc {5}{\scshape Ausblick}{23}{0}{5}
+\beamer@subsectionintoc {5}{1}{SHA-3}{23}{0}{5}

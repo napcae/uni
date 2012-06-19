@@ -13,7 +13,6 @@
 \usepackage{graphicx}
 \usepackage{tikz}
 \usepackage{german}
-\usepackage{algpseudocode}
 \usetikzlibrary{decorations.fractals}
 \tolerance=9000 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -162,7 +161,8 @@ ver"offentlicht
 \begin{itemize}
 \item 2002 ver"offentlicht
 \pause
-\item existiert in mehreren Bit Varianten
+\item existiert in mehreren Bit Variante
+%%die hier gelistet sind(nächste folie)
 \end{itemize}
 \end{frame}
 
@@ -213,10 +213,24 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \begin{frame}{Pseudocode}
 
 Initialize variables
-(first 32 bits of the fractional parts of the square roots of the first 8 primes 2..19):
+(first 32 bits of the fractional parts of the square roots of the first 8 primes 2..19):\\
+\texttt{h[0..7] := 0x6a09e667,[...],0x5be0cd19}
+\newline \newline
+Initialize table of round constants
+(first 32 bits of the fractional parts of the cube roots of the first 64 primes 2..311):\\
+\texttt{k[0..63] := 0x428a2f98,[...], 0xc67178f2}
 
-\texttt{h[0..7] := 0x6a09e667, 0xbb67ae85, 0x3c6ef372, 0xa54ff53a,			  0x510e527f, 0x9b05688c, 0x1f83d9ab, 0x5be0cd19}.   
 
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Pseudocode2}
+\begin{frame}{Preprocessing}
+
+\texttt{bit $1$ zur $message$ hinzuf"ugen}\newline \newline
+\texttt{ anzahl von $k$ bits $0$ hinzuf"ugen, wobei $k$ die kleinst mögliche Zahl >= 0, so dass die L"ange der $message$ (in bits) Modulo 512 minus 64 bits ist}\newline \newline
+\texttt{L"ange der Message(vor dem Preprocessing), in bits, als 64-bit big-endian integer hinzufügen}
 
 
 
