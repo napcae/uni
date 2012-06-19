@@ -200,7 +200,7 @@ ver"offentlicht
 \subsection{Algorithmus}
 \begin{frame}{Funktionen}
 $ Ch(E,F,G) = (E\wedge F) \oplus (\neg E\wedge G)$
-$ Ma(A,B,C) = (A\wedge B) \oplus (A\wedge C) \oplus (B\wedge C)$\\
+$ Maj(A,B,C) = (A\wedge B) \oplus (A\wedge C) \oplus (B\wedge C)$\\
 $ \Sigma_0 = (A\ggg 2) \oplus (A\ggg 13) \oplus (A\ggg 22) $\\
 $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \end{frame}
@@ -254,12 +254,12 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 
 \begin{itemize}
 
-\item 
+\item[]
 \texttt{for $i=16$ to $63$ \{}
 		 \begin{itemize}
-		 \item $s0$ := ($w[i-15]$ rightrotate $7$) xor ($w[i-15]$ rightrotate $18$) xor ($w[i-15]$ rightshift $3$) \newline
-        \item $s1$ := ($w[i-2]$ rightrotate $17$) xor ($w[i-2]$ rightrotate $19$) xor ($w[i-2]$ rightshift $10$) \newline
-        \item $w[i]$ := $w[i-16]$ + $s0$ + $w[i-7]$ + $s1$ \newline \}
+		 \item[] $s0$ := ($w[i-15]$ rightrotate $7$) xor ($w[i-15]$ rightrotate $18$) xor ($w[i-15]$ rightshift $3$) \newline
+        \item[] $s1$ := ($w[i-2]$ rightrotate $17$) xor ($w[i-2]$ rightrotate $19$) xor ($w[i-2]$ rightshift $10$) \newline
+        \item[] $w[i]$ := $w[i-16]$ + $s0$ + $w[i-7]$ + $s1$ \newline \}
 		 \end{itemize}
 		 %%aufschreiben was ist rechtsrotate,was ist rechtsshift + was ist das padding(?) erklären können!
          
@@ -279,6 +279,39 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
     $f := h5$ \\
     $g := h6$ \\
     $h := h7$} 
+%%h0 = nachkommastelle der quadratwurzel
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Pseudocode5}
+\begin{frame}{Hauptschleife}
+\begin{itemize}[]
+\item[]
+\texttt{for $i=0$ to $63$ \{} \\
+\begin{itemize}[]
+\item[]
+    \texttt{$S0$ := ($a$ rightrotate $2$) xor ($a$ rightrotate $13$) xor ($a$ rightrotate $22$)} \\
+\item[]
+	\texttt{$maj$ := ($a$ and $b$) xor ($a$ and $c$) xor ($b$ and $c$)} \\
+\item[]
+	\texttt{$t2$ := $S0$ + $maj$}
+\item[]
+	\texttt{$S1$ := ($e$ rightrotate $6$) xor ($e$ rightrotate $11$) xor ($e$ rightrotate $25$)} \\
+\item[]
+	\texttt{$ch$ := ($e$ and $f$) xor ((not $e$) and $g$)} \\
+        t1 := h + S1 + ch + k[i] + w[i]
+
+        h := g
+        g := f
+        f := e
+        e := d + t1
+        d := c
+        c := b
+        b := a
+        a := t1 + t2
+\end{itemize}
+
+\end{itemize}
 
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
