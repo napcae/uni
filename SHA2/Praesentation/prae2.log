@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  19 JUN 2012 14:02
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  19 JUN 2012 14:07
 entering extended mode
 **prae2.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.tex
@@ -985,15 +985,12 @@ Overfull \vbox (10.53484pt too high) detected at line 74
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-(C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.toc)
-Overfull \vbox (75.51883pt too high) detected at line 81
- []
-
-[2
+(C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.toc) [2
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 100.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 100.
@@ -1027,17 +1024,17 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
 ] [13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
 []\OT1/ppl/m/n/10.95 Message
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--193
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
 []\OT1/ppl/m/n/10.95 Message Di-gest
  []
 
 
-Overfull \hbox (34.24014pt too wide) in paragraph at lines 193--193
+Overfull \hbox (34.24014pt too wide) in paragraph at lines 192--192
  [] 
  []
 
@@ -1045,16 +1042,16 @@ Overfull \hbox (34.24014pt too wide) in paragraph at lines 193--193
 
 ] [15
 
-] <sha256.png, id=905, 1003.75pt x 708.6475pt>
+] <sha256.png, id=875, 1003.75pt x 708.6475pt>
 File: sha256.png Graphic file (type png)
  <use sha256.png>
-Package pdftex.def Info: sha256.png used on input line 212.
+Package pdftex.def Info: sha256.png used on input line 211.
 (pdftex.def)             Requested size: 301.12732pt x 212.59589pt.
 
 [16
 
  <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/sha256.png>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 231.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 230.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
@@ -1066,14 +1063,14 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 248.
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 247.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 248.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 247.
  [19
 
 ]
@@ -1093,13 +1090,13 @@ Missing character: There is no ¼ in font pcrr7t!
  [22
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 268.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 267.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 268.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 267.
 
 [23
 
@@ -1121,7 +1118,7 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 
 ]
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 329.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 328.
  [32
 
 ] [33
@@ -1141,37 +1138,50 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 373.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 373.
  (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
-Package rerunfilecheck Info: File `prae2.out' has not changed.
-(rerunfilecheck)             Checksum: B0FD5DBE272F3548D4DEB47AEF52D82B;1287.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 373.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 373.
+
+
+Package rerunfilecheck Warning: File `prae2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `prae2.out':
+(rerunfilecheck)             Before: EB675F0FB23EC39C9FE76B8FF7D08AAE;909
+(rerunfilecheck)             After:  4322FE0C411B879117FDE48F6C5D69A0;845.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 373.
  ) 
 Here is how much of TeX's memory you used:
- 18828 strings out of 494045
- 363988 string characters out of 3145961
- 514390 words of memory out of 3000000
- 21558 multiletter control sequences out of 15000+200000
+ 18804 strings out of 494045
+ 363700 string characters out of 3145961
+ 514143 words of memory out of 3000000
+ 21540 multiletter control sequences out of 15000+200000
  26264 words of font info for 74 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  49i,19n,65p,395b,1142s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/urw/palatino/uplri8a.pfb>
-Output written on prae2.pdf (38 pages, 564538 bytes).
+pdfTeX warning (dest): name{Outline0.2.5.14} has been referenced but does not
+ exist, replaced by a fixed one
+
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/palatino/uplri8a.pfb>
+Output written on prae2.pdf (38 pages, 561236 bytes).
 PDF statistics:
- 2087 PDF objects out of 2487 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
- 224 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2056 PDF objects out of 2073 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
