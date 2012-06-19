@@ -34,3 +34,6 @@
 
 12) http://www.uni-weimar.de/cms/fileadmin/medien/medsicherheit/Teaching/SS09/Projekt__Implementation/skein_talk-1.pdf
 #skein, sha3 finalist
+
+13) http://www2.informatik.hu-berlin.de/~swinkler/papers/GeschichtederVerschluesselung(Hashfunktionen).pdf
+# sha geschichte
