@@ -40,3 +40,9 @@
 
 14) http://public.beuth-hochschule.de/~rweis/vorlesungen/ComputerSicherheit/LucksWeisSicherheitHash0305.pdf
 #sha2 sicherheitslücke
+
+15) http://www.heise.de/security/meldung/Zweifel-an-der-Notwendigkeit-des-Kryptostandards-SHA3-1497267.html
+#sha3 unnötig?
+
+16) http://www.heise.de/security/meldung/NIST-sucht-den-Super-Hash-Nur-noch-fuenf-Kandidaten-im-SHA-3-Finale-1151151.html
+#sha3 finalisten
