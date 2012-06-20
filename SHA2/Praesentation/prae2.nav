@@ -56,13 +56,15 @@
 \headcommand {\slideentry {4}{1}{1}{34/36}{Verwendungszweck}{0}}
 \headcommand {\beamer@framepages {34}{36}}
 \headcommand {\beamer@subsectionentry {0}{4}{2}{37}{Schwachstellen}}\headcommand {\beamer@subsectionpages {34}{36}}
-\headcommand {\slideentry {4}{2}{1}{37/38}{Schwachstellen}{0}}
-\headcommand {\beamer@framepages {37}{38}}
+\headcommand {\slideentry {4}{2}{1}{37/37}{Schwachstellen}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {4}{2}{2}{38/38}{Schwachstellen}{0}}
+\headcommand {\beamer@framepages {38}{38}}
 \headcommand {\beamer@partpages {1}{39}}
 \headcommand {\beamer@subsectionpages {39}{39}}
 \headcommand {\beamer@sectionpages {39}{39}}
 \headcommand {\beamer@documentpages {39}}
-\headcommand {\def \inserttotalframenumber {20}}
+\headcommand {\def \inserttotalframenumber {21}}
 \headcommand {\sectionentry {5}{\scshape Ausblick}{39}{\scshape Ausblick}{0}}
 \headcommand {\beamer@sectionpages {34}{38}}
 \headcommand {\beamer@subsectionpages {37}{38}}
