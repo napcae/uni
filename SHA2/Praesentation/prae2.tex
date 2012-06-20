@@ -8,6 +8,7 @@
 %%  http://cameron.bracken.bz/beamer-template
 
 \documentclass[xcolor=x11names,compress]{beamer}
+\usepackage{pgfpages}
 
 %% General document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{graphicx}
@@ -15,7 +16,7 @@
 \usepackage{german}
 \usetikzlibrary{decorations.fractals}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\setbeameroption{show notes on second screen=left}
+\setbeameroption{show notes on second screen=left}
 
 %% Beamer Layout %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \useoutertheme[subsection=false,shadow]{miniframes}
@@ -40,6 +41,9 @@
  
 \setbeamercolor*{palette tertiary}{fg=black,bg=black!10} 
 \setbeamercolor*{palette quaternary}{fg=black,bg=black!10} 
+
+\setbeamertemplate{note page}[plain]
+
 
 \renewcommand{\(}{\begin{columns}}
 \renewcommand{\)}{\end{columns}}
@@ -103,7 +107,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{\scshape Geschichte}
-\subsection{SHA}
+\subsection{SHA Allgemein}
 \begin{frame}{SHA Allgemein}
 %The Secure Hash Algorithm is one of a number of cryptographic hash %functions published by the National Institute of Standards and Technology %(NIST) as a U.S. Federal Information Processing Standard (FIPS)
 \begin{itemize}

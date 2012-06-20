@@ -2,7 +2,7 @@
 \beamer@sectionintoc {1}{\scshape Einf\active@dq \dq@prtct {u}hrung}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Was ist ein Hash?}{3}{0}{1}
 \beamer@sectionintoc {2}{\scshape Geschichte}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{SHA}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{SHA Allgemein}{6}{0}{2}
 \beamer@subsectionintoc {2}{2}{SHA-0}{8}{0}{2}
 \beamer@subsectionintoc {2}{3}{SHA-1}{10}{0}{2}
 \beamer@subsectionintoc {2}{4}{SHA-2}{12}{0}{2}

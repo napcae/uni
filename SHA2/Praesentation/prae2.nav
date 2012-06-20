@@ -12,8 +12,8 @@
 \headcommand {\sectionentry {2}{\scshape Geschichte}{6}{\scshape Geschichte}{0}}
 \headcommand {\beamer@sectionpages {3}{5}}
 \headcommand {\beamer@subsectionpages {3}{5}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{SHA}}\headcommand {\beamer@subsectionpages {6}{5}}
-\headcommand {\slideentry {2}{1}{1}{6/7}{SHA}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{SHA Allgemein}}\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\slideentry {2}{1}{1}{6/7}{SHA Allgemein}{0}}
 \headcommand {\beamer@framepages {6}{7}}
 \headcommand {\beamer@subsectionentry {0}{2}{2}{8}{SHA-0}}\headcommand {\beamer@subsectionpages {6}{7}}
 \headcommand {\slideentry {2}{2}{1}{8/9}{SHA-0}{0}}
@@ -58,14 +58,14 @@
 \headcommand {\beamer@subsectionentry {0}{4}{2}{37}{Sicherheitsl\active@dq \dq@prtct {u}cken}}\headcommand {\beamer@subsectionpages {34}{36}}
 \headcommand {\slideentry {4}{2}{1}{37/37}{Sicherheitsl\active@dq \dq@prtct {u}cken}{0}}
 \headcommand {\beamer@framepages {37}{37}}
+\headcommand {\beamer@partpages {1}{38}}
+\headcommand {\beamer@subsectionpages {38}{38}}
+\headcommand {\beamer@sectionpages {38}{38}}
+\headcommand {\beamer@documentpages {38}}
+\headcommand {\def \inserttotalframenumber {20}}
 \headcommand {\sectionentry {5}{\scshape Ausblick}{38}{\scshape Ausblick}{0}}
 \headcommand {\beamer@sectionpages {34}{37}}
 \headcommand {\beamer@subsectionpages {37}{37}}
 \headcommand {\beamer@subsectionentry {0}{5}{1}{38}{SHA-3}}\headcommand {\beamer@subsectionpages {38}{37}}
 \headcommand {\slideentry {5}{1}{1}{38/38}{SHA-3}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\beamer@partpages {1}{38}}
-\headcommand {\beamer@subsectionpages {38}{38}}
-\headcommand {\beamer@sectionpages {38}{38}}
-\headcommand {\beamer@documentpages {38}}
-\headcommand {\def \inserttotalframenumber {20}}
