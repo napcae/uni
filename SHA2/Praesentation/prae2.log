@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  20 JUN 2012 15:24
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  20 JUN 2012 15:26
 entering extended mode
 **prae2.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.tex
@@ -1083,7 +1083,7 @@ Overfull \hbox (34.24014pt too wide) in paragraph at lines 202--202
 ] [15
 
 
-] <sha256.png, id=882, 1003.75pt x 708.6475pt>
+] <sha256.png, id=916, 1003.75pt x 708.6475pt>
 File: sha256.png Graphic file (type png)
  <use sha256.png>
 Package pdftex.def Info: sha256.png used on input line 222.
@@ -1194,28 +1194,28 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 
 
 ]
-<collision-resistance.png, id=1980, 624.3325pt x 160.6pt>
+<collision-resistance.png, id=2058, 624.3325pt x 160.6pt>
 File: collision-resistance.png Graphic file (type png)
 
 <use collision-resistance.png>
-Package pdftex.def Info: collision-resistance.png used on input line 397.
+Package pdftex.def Info: collision-resistance.png used on input line 391.
 (pdftex.def)             Requested size: 324.65477pt x 83.51247pt.
 
-Overfull \hbox (17.3649pt too wide) in paragraph at lines 397--397
+Overfull \hbox (17.3649pt too wide) in paragraph at lines 391--391
 [][]  
  []
 
 [38
 
 
-] <preimage-resistance.png, id=2031, 602.25pt x 160.6pt>
+] <preimage-resistance.png, id=2111, 602.25pt x 160.6pt>
 File: preimage-resistance.png Graphic file (type png)
 
 <use preimage-resistance.png>
-Package pdftex.def Info: preimage-resistance.png used on input line 404.
+Package pdftex.def Info: preimage-resistance.png used on input line 398.
 (pdftex.def)             Requested size: 313.1718pt x 83.51247pt.
 
-Overfull \hbox (5.88193pt too wide) in paragraph at lines 404--404
+Overfull \hbox (5.88193pt too wide) in paragraph at lines 398--398
 [][]  
  []
 
@@ -1223,14 +1223,14 @@ Overfull \hbox (5.88193pt too wide) in paragraph at lines 404--404
 
 
  <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/collision-resistanc
-e.png>] <2nd-preimage-resistance.png, id=2082, 602.25pt x 160.6pt>
+e.png>] <2nd-preimage-resistance.png, id=2164, 602.25pt x 160.6pt>
 File: 2nd-preimage-resistance.png Graphic file (type png)
 
 <use 2nd-preimage-resistance.png>
-Package pdftex.def Info: 2nd-preimage-resistance.png used on input line 411.
+Package pdftex.def Info: 2nd-preimage-resistance.png used on input line 405.
 (pdftex.def)             Requested size: 313.1718pt x 83.51247pt.
 
-Overfull \hbox (5.88193pt too wide) in paragraph at lines 411--411
+Overfull \hbox (5.88193pt too wide) in paragraph at lines 405--405
 [][]  
  []
 
@@ -1250,48 +1250,38 @@ ance.png>]
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 424.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 424.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 418.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 418.
 
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 424.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 424.
-
-
-Package rerunfilecheck Warning: File `prae2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `prae2.out':
-(rerunfilecheck)             Before: 9E6990BD62FCEE8DBC6D439594B25C4B;849
-(rerunfilecheck)             After:  57F22B70D342F1D99D8D9A733BD80491;849.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 424.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 418.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 418.
+Package rerunfilecheck Info: File `prae2.out' has not changed.
+(rerunfilecheck)             Checksum: 57F22B70D342F1D99D8D9A733BD80491;849.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 418.
  ) 
 Here is how much of TeX's memory you used:
- 19100 strings out of 494045
- 371118 string characters out of 3145961
- 532168 words of memory out of 3000000
- 21819 multiletter control sequences out of 15000+200000
- 28041 words of font info for 77 fonts, out of 3000000 for 9000
+ 19074 strings out of 494045
+ 370197 string characters out of 3145961
+ 533886 words of memory out of 3000000
+ 21795 multiletter control sequences out of 15000+200000
+ 26939 words of font info for 75 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  49i,19n,65p,416b,1147s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Outline0.5.1.39} has been referenced but does not
- exist, replaced by a fixed one
-
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/palatino/uplri8a.pfb>
-Output written on prae2.pdf (41 pages, 621924 bytes).
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/urw/palatino/uplri8a.pfb>
+Output written on prae2.pdf (41 pages, 635455 bytes).
 PDF statistics:
- 2248 PDF objects out of 2487 (max. 8388607)
- 100 named destinations out of 1000 (max. 500000)
+ 2331 PDF objects out of 2487 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
