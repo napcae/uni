@@ -153,8 +153,9 @@ ver"offentlicht
 \pause
 \item aufgrund Designfehler in SHA-0
 \note[item]{2005 von Xiaoyun Wang, Yiqun Lisa Yin und Hongbo Yu an der Shandong University in China gebrochen}
-\note[item]{Ihnen war es gelungen, den Aufwand zur Kollisionsberechnung von $<2^{80}$ auf $<2^{69}$ zu verringern}
+\note[item]{Ihnen war es gelungen, den Aufwand zur Kollisionsberechnung von $2^{80}$ auf $2^{69}$ zu verringern}
 \note[item]{es wurde ein rechtsshift durch ein linksshift ersetzt}
+\note[item]{August 2005, wurde von Xiaoyun Wang, Andrew Yao und Frances Yao auf der Konferenz CRYPTO 2005 ein weiterer, effizienterer Kollisionsangriff auf SHA-1 vorgestellt, welcher den Berechnungsaufwand auf $2^{63}$ reduziert}
 
 \end{itemize}
 \end{frame}
@@ -181,6 +182,8 @@ ver"offentlicht
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}[shrink=30]{}
+\note[item]{$2^{64}$ bits = 2 147 483 648 gigabytes}
+\note[item]{auch wenn $2^{128}$ bits an daten m"oglich sind, werden $2^{64}$ in der realit"at nicht "uberschritten}
 \begin{table}[c]
 \caption{Secure Hash Algorithmus Eigenschaften}
 \begin{tabular}[ht]{|c|p{0.2\textwidth}|p{0.2\textwidth}|p{0.2\textwidth}|p{0.2\textwidth}|}
