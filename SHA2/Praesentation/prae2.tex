@@ -217,6 +217,7 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Darstellung des Algorithmus}
+%SHA2 breaks messages into 64 byte chunks, does mathematical transformations on each chunk, and adds them to a hash value. It does this for every chunk and adds them to the same value. In the end, you get a fixed length output.
 \includegraphics[scale=0.3]{sha256.png}\\
 \end{frame}
 
@@ -368,9 +369,20 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Sicherheitsl"ucken}
 \begin{frame}{Sicherheitsl"ucken \& Angriffsvektoren}
+\begin{itemize}
+\note[item]{allgemein wird in starke und schwache hashefunktionen unterschieden}
+\item Preimage-Angriff: 
+	\begin{itemize}
+		\item Wie schwer ist es, zu einem vorgegebenen Hash-Wert eine Nachricht zu erzeugen, die denselben Hash-Wert ergibt?
+		\pause
+		\item Kollisionsangriff: Wie schwer ist es, zwei verschiedenen Nachrichten mit gleicher Pr"ufsumme zu finden?
+	\end{itemize}
+\end{itemize}
+\note[item]{wieder auf folie gucken}
 \note[item]{sha2 fragil, kleine "anderung im algo  $\to$ grosse auswirkung auf sicherheit}
 \note[item]{\tiny{siehe quelle 14}}
 \end{frame}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
