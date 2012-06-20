@@ -262,6 +262,7 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 		 \item[] $s0$ := ($w[i-15]$ rightrotate $7$) xor ($w[i-15]$ rightrotate $18$) xor ($w[i-15]$ rightshift $3$) \newline
         \item[] $s1$ := ($w[i-2]$ rightrotate $17$) xor ($w[i-2]$ rightrotate $19$) xor ($w[i-2]$ rightshift $10$) \newline
         \item[] $w[i]$ := $w[i-16]$ + $s0$ + $w[i-7]$ + $s1$ \newline \}
+        \note{was ist ein rechtsrotate?was ist padding?}
 		 \end{itemize}
 		 %%aufschreiben was ist rechtsrotate,was ist rechtsshift + was ist das padding(?) erklären können!
          
@@ -361,7 +362,8 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Sicherheitsl"ucken}
 \begin{frame}{Sicherheitsl"ucken \& Angriffsvektoren}
-
+\note{sha2 fragil, kleine änderung im algo  $\to$ grosse auswirkung auf sicherheit \\
+\tiny{siehe quelle 14}}
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -37,3 +37,6 @@
 
 13) http://www2.informatik.hu-berlin.de/~swinkler/papers/GeschichtederVerschluesselung(Hashfunktionen).pdf
 # sha geschichte
+
+14) http://public.beuth-hochschule.de/~rweis/vorlesungen/ComputerSicherheit/LucksWeisSicherheitHash0305.pdf
+#sha2 sicherheitslücke
