@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  20 JUN 2012 10:31
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  20 JUN 2012 10:50
 entering extended mode
 **prae2.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.tex
@@ -1063,17 +1063,17 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []\OT1/ppl/m/n/10.95 Message
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []\OT1/ppl/m/n/10.95 Message Di-gest
  []
 
 
-Overfull \hbox (34.24014pt too wide) in paragraph at lines 196--196
+Overfull \hbox (34.24014pt too wide) in paragraph at lines 199--199
  [] 
  []
 
@@ -1086,14 +1086,14 @@ Overfull \hbox (34.24014pt too wide) in paragraph at lines 196--196
 ] <sha256.png, id=865, 1003.75pt x 708.6475pt>
 File: sha256.png Graphic file (type png)
  <use sha256.png>
-Package pdftex.def Info: sha256.png used on input line 215.
+Package pdftex.def Info: sha256.png used on input line 218.
 (pdftex.def)             Requested size: 301.12732pt x 212.59589pt.
 
 [16
 
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 234.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 237.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -1106,14 +1106,14 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 251.
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 254.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 251.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 254.
  [19
 
 
@@ -1137,13 +1137,13 @@ Missing character: There is no ¼ in font pcrr7t!
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 272.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 275.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 272.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 275.
 
 [23
 
@@ -1174,7 +1174,7 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 
 ]
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 333.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 336.
  [32
 
 
@@ -1205,21 +1205,21 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 380.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 380.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
  (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 380.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 380.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
 Package rerunfilecheck Info: File `prae2.out' has not changed.
 (rerunfilecheck)             Checksum: 4E09940F656952CAEAC0F89572BEA7ED;855.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 380.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
  ) 
 Here is how much of TeX's memory you used:
- 19046 strings out of 494045
- 369659 string characters out of 3145961
+ 19047 strings out of 494045
+ 369665 string characters out of 3145961
  530823 words of memory out of 3000000
  21777 multiletter control sequences out of 15000+200000
- 26264 words of font info for 74 fonts, out of 3000000 for 9000
+ 26939 words of font info for 75 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  49i,19n,65p,416b,1147s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
@@ -1233,7 +1233,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/urw/palatino/uplri8a.pfb>
-Output written on prae2.pdf (38 pages, 563650 bytes).
+Output written on prae2.pdf (38 pages, 564778 bytes).
 PDF statistics:
  2051 PDF objects out of 2073 (max. 8388607)
  93 named destinations out of 1000 (max. 500000)
