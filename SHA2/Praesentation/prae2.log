@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  21 JUN 2012 12:48
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  21 JUN 2012 12:53
 entering extended mode
 **prae2.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.tex
@@ -1082,37 +1082,28 @@ Overfull \hbox (34.24014pt too wide) in paragraph at lines 214--214
 File: sha256.png Graphic file (type png)
  <use sha256.png>
 Package pdftex.def Info: sha256.png used on input line 225.
-(pdftex.def)             Requested size: 401.49289pt x 283.45398pt.
+(pdftex.def)             Requested size: 301.12732pt x 212.59589pt.
+ [19
 
-Overfull \hbox (94.20302pt too wide) in paragraph at lines 225--225
-[][]  
- []
-
-
-Overfull \vbox (66.0725pt too high) detected at line 225
- []
-
-[19
-
- <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/sha256.png>]
-[20
+ <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/sha256.png>] [20
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 253.
 
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [21
 
-]
-[22
+] [22
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
 LaTeX Font Info:    Try loading font information for OMS+pcr on input line 278.
 
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
@@ -1122,13 +1113,13 @@ LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
-
-[24
+ [24
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
- [25
+
+[25
 
 ]
 Missing character: There is no Ã in font pcrr7t!
@@ -1143,6 +1134,7 @@ File: omsppl.fd
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 299.
+
 [27
 
 ] [28
@@ -1272,7 +1264,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/urw/palatino/uplri8a.pfb>
-Output written on prae2.pdf (49 pages, 739508 bytes).
+Output written on prae2.pdf (49 pages, 739504 bytes).
 PDF statistics:
  2863 PDF objects out of 2984 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)
