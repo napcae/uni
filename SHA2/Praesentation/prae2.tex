@@ -369,8 +369,8 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Schwachstellen}
-\begin{frame}{Schwachstellen}
+\subsection{Schwachstellen/Angriffsvektoren}
+\begin{frame}{Schwachstellen/Angriffsvektoren}
 \begin{itemize}
 \note[item]{bis zum heutigen tage noch keine sicherheitsl"ucken,daher eher schwachstellen als sicherheitsl"ucken}
 \note[item]{allgemein wird in starke und schwache hashefunktionen unterschieden}
@@ -390,7 +390,7 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \begin{frame}{Kollisionsresistenz}
 Wie schwer ist es, zwei verschiedenen Nachrichten mit gleicher Pr"ufsumme zu finden?\\
 \includegraphics[scale=0.52]{collision-resistance.png}
-\note[item]{kollisionsfreiheit unmöglich, es muss nur schwer sein welche zu finden: da es unendlich viele eingaben, aber nur endlich viele hashes gibt}
+\note[item]{kollisionsfreiheit unm"oglich, es muss nur schwer sein welche zu finden: da es unendlich viele eingaben, aber nur endlich viele hashes gibt}
 \note[item]{schwache kr: vorgegebene eingabe, gesucht ist eine eingabe, die zum gleichen hash f"uhrt}
 \note[item]{schwache kr: gesucht sind zwei beliebige eingaben, die zum gleichen hash f"uhrt}
 \end{frame}
@@ -414,8 +414,16 @@ Wie schwer ist es, zu einer vorgegebene Nachricht einen Hash-Wert eine Nachricht
 \section{\scshape Ausblick}
 \subsection{SHA-3}
 \begin{frame}{SHA-3}
+\begin{itemize}
+	\item 2007 rief NIST zu einem Wettbewerb auf
+\pause	
+	\item 191 Einreichungen, 5 Finalisten
+\pause
+	\item bisher langsamer als SHA2
+\end{itemize}
 \note[item]{sha3 finalisten allesamt nicht von attacken gegen prinzipielles \glqq merkle damgard \grqq  verfahren betroffen}
 \note[item]{merkle damgard: \glqq Aus den Nachrichtenbl"ocken wird durch wiederholte Anwendung der Kompressionsfunktion der Hashwert erzeugt \grqq }
+\note[item]{bisher langsamer, eventuell unn"otig da sha2 ungebroche+hoher migrationsaufwand}
 \end{frame}
 
 

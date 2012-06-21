@@ -11,6 +11,6 @@
 \beamer@subsectionintoc {3}{2}{Pseudocode}{17}{0}{3}
 \beamer@sectionintoc {4}{\scshape Anwendung}{34}{0}{4}
 \beamer@subsectionintoc {4}{1}{Verwendungszweck}{34}{0}{4}
-\beamer@subsectionintoc {4}{2}{Schwachstellen}{37}{0}{4}
+\beamer@subsectionintoc {4}{2}{Schwachstellen/Angriffsvektoren}{37}{0}{4}
 \beamer@sectionintoc {5}{\scshape Ausblick}{41}{0}{5}
 \beamer@subsectionintoc {5}{1}{SHA-3}{41}{0}{5}
