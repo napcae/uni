@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  21 JUN 2012 09:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  21 JUN 2012 10:02
 entering extended mode
 **prae2.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.tex
@@ -1016,41 +1016,45 @@ gramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 106.
+(C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.toc) [3
+
+
+]
+(C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.toc) [4
+
+
+]
+(C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.toc) [5
+
+
+]
+(C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.toc) [6
+
+
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 111.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 106.
+LaTeX Font Info:    Try loading font information for U+msb on input line 111.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [3
-
-
-] [4
-
-
-]
-[5
-
-
-]
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 134.
- [6
-
-
-] [7
+) [7
 
 
 ] [8
 
 
-] [9
+]
+[9
 
 
-] [10
+]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 139.
+ [10
 
 
 ] [11
@@ -1062,102 +1066,102 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
 ] [13
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-[]\OT1/ppl/m/n/10.95 Message
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
-[]\OT1/ppl/m/n/10.95 Message Di-gest
- []
-
-
-Overfull \hbox (34.24014pt too wide) in paragraph at lines 204--204
- [] 
- []
-
-[14
+] [14
 
 
 ] [15
 
 
-] <sha256.png, id=917, 1003.75pt x 708.6475pt>
-File: sha256.png Graphic file (type png)
- <use sha256.png>
-Package pdftex.def Info: sha256.png used on input line 224.
-(pdftex.def)             Requested size: 301.12732pt x 212.59589pt.
+] [16
 
-[16
+
+] [17
 
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 243.
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]\OT1/ppl/m/n/10.95 Message
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]\OT1/ppl/m/n/10.95 Message Di-gest
+ []
+
+
+Overfull \hbox (34.24014pt too wide) in paragraph at lines 209--209
+ [] 
+ []
+
+[18
+
+
+] [19
+
+
+] <sha256.png, id=1185, 1003.75pt x 708.6475pt>
+File: sha256.png Graphic file (type png)
+ <use sha256.png>
+Package pdftex.def Info: sha256.png used on input line 229.
+(pdftex.def)             Requested size: 301.12732pt x 212.59589pt.
+
+[20
+
+
+]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 248.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [17
+) [21
 
 
- <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/sha256.png>] [18
+ <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/sha256.png>] [22
 
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 260.
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 265.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 260.
- [19
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
+ [23
 
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
- [20
+ [24
 
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
 
-[21
+[25
 
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
- [22
+ [26
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 281.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 286.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 281.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 286.
 
-[23
-
-
-] [24
-
-
-] [25
-
-
-] [26
-
-
-] [27
+[27
 
 
 ] [28
@@ -1172,10 +1176,7 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 ] [31
 
 
-]
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 342.
- [32
+] [32
 
 
 ] [33
@@ -1187,89 +1188,104 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 ] [35
 
 
-] [36
+]
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 347.
+ [36
 
 
 ] [37
 
 
+] [38
+
+
+] [39
+
+
+] [40
+
+
+] [41
+
+
 ]
-<collision-resistance.png, id=2059, 624.3325pt x 160.6pt>
+<collision-resistance.png, id=2328, 624.3325pt x 160.6pt>
 File: collision-resistance.png Graphic file (type png)
 
 <use collision-resistance.png>
-Package pdftex.def Info: collision-resistance.png used on input line 396.
+Package pdftex.def Info: collision-resistance.png used on input line 401.
 (pdftex.def)             Requested size: 324.65477pt x 83.51247pt.
 
-Overfull \hbox (17.3649pt too wide) in paragraph at lines 396--396
+Overfull \hbox (17.3649pt too wide) in paragraph at lines 401--401
 [][] 
  []
 
-[38
+[42
 
 
-] <preimage-resistance.png, id=2112, 602.25pt x 160.6pt>
+] <preimage-resistance.png, id=2380, 602.25pt x 160.6pt>
 File: preimage-resistance.png Graphic file (type png)
 
 <use preimage-resistance.png>
-Package pdftex.def Info: preimage-resistance.png used on input line 403.
+Package pdftex.def Info: preimage-resistance.png used on input line 408.
 (pdftex.def)             Requested size: 313.1718pt x 83.51247pt.
 
-Overfull \hbox (5.88193pt too wide) in paragraph at lines 403--403
+Overfull \hbox (5.88193pt too wide) in paragraph at lines 408--408
 [][]  
  []
 
-[39
+[43
 
 
  <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/collision-resistanc
-e.png>] <2nd-preimage-resistance.png, id=2165, 602.25pt x 160.6pt>
+e.png>] <2nd-preimage-resistance.png, id=2433, 602.25pt x 160.6pt>
 File: 2nd-preimage-resistance.png Graphic file (type png)
 
 <use 2nd-preimage-resistance.png>
-Package pdftex.def Info: 2nd-preimage-resistance.png used on input line 410.
+Package pdftex.def Info: 2nd-preimage-resistance.png used on input line 415.
 (pdftex.def)             Requested size: 313.1718pt x 83.51247pt.
 
-Overfull \hbox (5.88193pt too wide) in paragraph at lines 410--410
+Overfull \hbox (5.88193pt too wide) in paragraph at lines 415--415
 [][]  
  []
 
-[40
+[44
 
 
  <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/preimage-resistance
-.png>] [41
+.png>] [45
 
 
  <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/2nd-preimage-resist
-ance.png>] [42
+ance.png>] [46
 
 
-] [43
+] [47
 
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
- [44
+ [48
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 431.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 431.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 436.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 436.
 
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 431.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 431.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 436.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 436.
 Package rerunfilecheck Info: File `prae2.out' has not changed.
-(rerunfilecheck)             Checksum: ABAC9EB1B1E3FD52B7F7B642C97C26E3;866.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 431.
+(rerunfilecheck)             Checksum: 3FE05337D3AF7B874878FCDC37929484;868.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 436.
  ) 
 Here is how much of TeX's memory you used:
- 19078 strings out of 494045
- 370235 string characters out of 3145961
- 533971 words of memory out of 3000000
+ 19094 strings out of 494045
+ 370851 string characters out of 3145961
+ 533991 words of memory out of 3000000
  21795 multiletter control sequences out of 15000+200000
  26939 words of font info for 75 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -1285,9 +1301,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/urw/palatino/uplri8a.pfb>
-Output written on prae2.pdf (43 pages, 659369 bytes).
+Output written on prae2.pdf (47 pages, 717509 bytes).
 PDF statistics:
- 2437 PDF objects out of 2487 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
+ 2707 PDF objects out of 2984 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
