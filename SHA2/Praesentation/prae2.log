@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  21 JUN 2012 12:35
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  21 JUN 2012 12:48
 entering extended mode
 **prae2.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\SHA2\Praesentation\prae2.tex
@@ -1082,83 +1082,58 @@ Overfull \hbox (34.24014pt too wide) in paragraph at lines 214--214
 File: sha256.png Graphic file (type png)
  <use sha256.png>
 Package pdftex.def Info: sha256.png used on input line 225.
-(pdftex.def)             Requested size: 301.12732pt x 212.59589pt.
- [19
+(pdftex.def)             Requested size: 401.49289pt x 283.45398pt.
 
- <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/sha256.png>] [20
+Overfull \hbox (94.20302pt too wide) in paragraph at lines 225--225
+[][]  
+ []
+
+
+Overfull \vbox (66.0725pt too high) detected at line 225
+ []
+
+[19
+
+ <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/sha256.png>]
+[20
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 253.
 
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [21
 
-] [22
+]
+[22
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
 LaTeX Font Info:    Try loading font information for OMS+pcr on input line 278.
 
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 278.
+ [23
 
-<padding.png, id=1373, 414.79968pt x 71.51718pt>
-File: padding.png Graphic file (type png)
- <use padding.png>
-Package pdftex.def Info: padding.png used on input line 278.
-(pdftex.def)             Requested size: 215.69708pt x 37.18913pt.
-
-Overfull \vbox (17.94522pt too high) detected at line 278
- []
-
-[23
-
- <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/padding.png>]
+]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
-File: padding.png Graphic file (type png)
-
-<use padding.png>
-Package pdftex.def Info: padding.png used on input line 278.
-(pdftex.def)             Requested size: 215.69708pt x 37.18913pt.
-
-Overfull \vbox (17.94522pt too high) detected at line 278
- []
 
 [24
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
-File: padding.png Graphic file (type png)
- <use padding.png>
-Package pdftex.def Info: padding.png used on input line 278.
-(pdftex.def)             Requested size: 215.69708pt x 37.18913pt.
-
-Overfull \vbox (17.94522pt too high) detected at line 278
- []
-
-[25
+ [25
 
 ]
 Missing character: There is no Ã in font pcrr7t!
 Missing character: There is no ¼ in font pcrr7t!
-File: padding.png Graphic file (type png)
- <use padding.png>
-Package pdftex.def Info: padding.png used on input line 278.
-(pdftex.def)             Requested size: 215.69708pt x 37.18913pt.
-
-Overfull \vbox (17.94522pt too high) detected at line 278
- []
-
-[26
+ [26
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+ppl on input line 299.
@@ -1168,10 +1143,9 @@ File: omsppl.fd
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 299.
- [27
+[27
 
-]
-[28
+] [28
 
 ] [29
 
@@ -1199,10 +1173,10 @@ File: sha256.png Graphic file (type png)
  <use sha256.png>
 Package pdftex.def Info: sha256.png used on input line 374.
 (pdftex.def)             Requested size: 301.12732pt x 212.59589pt.
- [38
 
-]
-[39
+[38
+
+] [39
 
 ] [40
 
@@ -1210,7 +1184,8 @@ Package pdftex.def Info: sha256.png used on input line 374.
 
 ] [42
 
-] <collision-resistance.png, id=2429, 624.3325pt x 160.6pt>
+]
+<collision-resistance.png, id=2427, 624.3325pt x 160.6pt>
 File: collision-resistance.png Graphic file (type png)
 
 <use collision-resistance.png>
@@ -1224,7 +1199,7 @@ Overfull \hbox (17.3649pt too wide) in paragraph at lines 422--422
 [43
 
  <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/collision-resistanc
-e.png>] <preimage-resistance.png, id=2484, 602.25pt x 160.6pt>
+e.png>] <preimage-resistance.png, id=2482, 602.25pt x 160.6pt>
 File: preimage-resistance.png Graphic file (type png)
 
 <use preimage-resistance.png>
@@ -1238,7 +1213,7 @@ Overfull \hbox (5.88193pt too wide) in paragraph at lines 429--429
 [44
 
  <C:/Users/ctrungng/Documents/GitHub/uni/SHA2/Praesentation/preimage-resistance
-.png>] <2nd-preimage-resistance.png, id=2538, 602.25pt x 160.6pt>
+.png>] <2nd-preimage-resistance.png, id=2536, 602.25pt x 160.6pt>
 File: 2nd-preimage-resistance.png Graphic file (type png)
 
 <use 2nd-preimage-resistance.png>
@@ -1279,10 +1254,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 466.
  ) 
 Here is how much of TeX's memory you used:
- 19055 strings out of 494045
- 369764 string characters out of 3145961
+ 19050 strings out of 494045
+ 369690 string characters out of 3145961
  525220 words of memory out of 3000000
- 21751 multiletter control sequences out of 15000+200000
+ 21747 multiletter control sequences out of 15000+200000
  27366 words of font info for 76 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  49i,19n,65p,416b,1147s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1297,9 +1272,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/urw/palatino/uplri8a.pfb>
-Output written on prae2.pdf (49 pages, 745219 bytes).
+Output written on prae2.pdf (49 pages, 739508 bytes).
 PDF statistics:
- 2865 PDF objects out of 2984 (max. 8388607)
+ 2863 PDF objects out of 2984 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
