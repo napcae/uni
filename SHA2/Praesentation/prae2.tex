@@ -16,8 +16,10 @@
 \usepackage{german}
 \usetikzlibrary{decorations.fractals}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setbeameroption{show notes on second screen=left}
-
+%\setbeameroption{show notes on second screen=left}
+%\setbeamertemplate{note page}{%
+ % \insertnote%
+%}
 %% Beamer Layout %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \useoutertheme[subsection=false,shadow]{miniframes}
 \useinnertheme{default}
@@ -433,6 +435,24 @@ Wie schwer ist es, zu einer vorgegebene Nachricht einen Hash-Wert eine Nachricht
 \includegraphics[scale=0.52]{2nd-preimage-resistance.png}
 \end{frame}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\scshape Ausblick}
+\subsection{SHA-3}
+\begin{frame}{SHA-3}
+\begin{itemize}
+	\item 2007 rief NIST zu einem Wettbewerb auf
+\pause	
+	\item 191 Einreichungen, 5 Finalisten
+\pause
+\item bisher langsamer als SHA2
+\end{itemize}
+ \note[item]{sha3 finalisten allesamt nicht von attacken gegen prinzipielles \glqq merkle damgard \grqq  verfahren betroffen}
+ \note[item]{merkle damgard: \glqq Aus den Nachrichtenbl"ocken wird durch wiederholte Anwendung der Kompressionsfunktion der Hashwert erzeugt \grqq }
+\note[item]{bisher langsamer, eventuell unn"otig da sha2 ungebrochen + hoher migrationsaufwand}
+ \end{frame}
+ 
+ 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
