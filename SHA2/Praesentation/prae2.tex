@@ -160,6 +160,7 @@ ver"offentlicht
 \item 1995 ver"offentlicht
 \pause
 \item aufgrund Designfehler in SHA-0
+\note[item]{alles optional, nicht vorlesen!}
 \note[item]{2005 von Xiaoyun Wang, Yiqun Lisa Yin und Hongbo Yu an der Shandong University in China gebrochen}
 \note[item]{Ihnen war es gelungen, den Aufwand zur Kollisionsberechnung von $2^{80}$ auf $2^{69}$ zu verringern}
 \note[item]{es wurde ein rechtsshift durch ein linksshift ersetzt}
@@ -177,7 +178,7 @@ ver"offentlicht
 \item 2002 ver"offentlicht
 \pause
 \item existiert in mehreren Bit Variante
-%%die hier gelistet sind(nächste folie)
+\note[item]{die hier gelistet sind(n"achste folie)}
 
 %%TODO
 %%MERKLE DEMGARD
@@ -192,6 +193,7 @@ ver"offentlicht
 \begin{frame}[shrink=30]{}
 \note[item]{$2^{64}$ bits = 2 147 483 648 gigabytes}
 \note[item]{auch wenn $2^{128}$ bits an daten m"oglich sind, werden $2^{64}$ in der realit"at nicht "uberschritten}
+\note[item]{unterschiede erkl"aren: andere konstanten bei 224 \& 384, worte werden weggelassen}
 \begin{table}[c]
 \caption{Secure Hash Algorithmus Eigenschaften}
 \begin{tabular}[ht]{|c|p{0.2\textwidth}|p{0.2\textwidth}|p{0.2\textwidth}|p{0.2\textwidth}|}
@@ -213,34 +215,34 @@ ver"offentlicht
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{\scshape Implementierung}
+\begin{frame}{Darstellung des Algorithmus}
+\note[item]{SHA2 teilt erst in messages,dann in 64 byte chunks, wendet mathematische funktionen auf jeden chunk, und f"ugt diese dann dem hash hinzu.}
+\note[item]{der algorithmus tut dies f"ur jeden chunk und f"ugt es dann dem hash wert hinzu.}
+\note[item]{am ende bekommt man einen hash wert mit einer genauen l"ange}
+\includegraphics[scale=0.3]{sha256.png}\\
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Algorithmus}
 \begin{frame}{Funktionen}
 $ Ch(E,F,G) = (E\wedge F) \oplus (\neg E\wedge G)$
 $ Maj(A,B,C) = (A\wedge B) \oplus (A\wedge C) \oplus (B\wedge C)$\\
 $ \Sigma_0 = (A\ggg 2) \oplus (A\ggg 13) \oplus (A\ggg 22) $\\
 $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
+\note[item]{rotate!!}
 \end{frame}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{frame}{Darstellung des Algorithmus}
-%SHA2 breaks messages into 64 byte chunks, does mathematical transformations on each chunk, and adds them to a hash value. It does this for every chunk and adds them to the same value. In the end, you get a fixed length output.
-\includegraphics[scale=0.3]{sha256.png}\\
-\end{frame}
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{Pseudocode}
 \begin{frame}{Pseudocode}
 \begin{itemize}
-\item Initialize variables
-(first 32 bits of the fractional parts of the square roots of the first 8 primes 2..19):\\
+\item Initialisiere Variabeln
+(die ersten 32 Bits der Nachkommastellen der Quadratwurzeln von den ersten 8 Primzahlen 2..19):\\
 \texttt{h[0..7] := 0x6a09e667,[...],0x5be0cd19}
 \pause
-\item Initialize table of round constants
-(first 32 bits of the fractional parts of the cube roots of the first 64 primes 2..311):\\
+\item Initialisiere Variabeln der Runden Konstanten
+(die ersten 32 Bits der Nachkommastellen der Kubikwurzel von den ersten 64 Primzahlen 2..311):\\
 \texttt{k[0..63] := 0x428a2f98,[...], 0xc67178f2}
 \end{itemize}
 
@@ -258,6 +260,14 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \item \texttt{$message$ in 512-bit chunks teilen}
 \item \texttt{foreach chunk\{}\newline
     \texttt{teile chunk in sechzehn 32-bit big-endian Worte $w[0..15]$}
+\note[item]{bsp nachricht \glqq abc \grqq}
+\note[item]{representation in ascii: 97 = a, 98=b,99=c}
+\note[item]{a= 0110 0001}
+\note[item]{b= 0110 0010}
+\note[item]{c= 0110 0011}
+\note[item]{da 8x3 = 24 ergibt sich $448-(24+1)=423$ zero Bits}
+\note[item]{am ende nachricht hinzufugen}
+\includegraphics[scale=0.52]{padding.png}
 \end{itemize}
 
 
@@ -354,6 +364,14 @@ $ \Sigma_1 = (A\ggg 6) \oplus (A\ggg 11) \oplus (A\ggg 25) $\\
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Darstellung des Algorithmus}
+\note[item]{SHA2 teilt erst in messages,dann in 64 byte chunks, wendet mathematische funktionen auf jeden chunk, und f"ugt diese dann dem hash hinzu.}
+\note[item]{der algorithmus tut dies f"ur jeden chunk und f"ugt es dann dem hash wert hinzu.}
+\note[item]{am ende bekommt man einen hash wert mit einer genauen l"ange}
+\includegraphics[scale=0.3]{sha256.png}\\
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{\scshape Anwendung}
 \subsection{Verwendungszweck}
 \begin{frame}{Verwendungszweck}
@@ -417,21 +435,12 @@ Wie schwer ist es, zu einer vorgegebene Nachricht einen Hash-Wert eine Nachricht
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{\scshape Ausblick}
-\subsection{SHA-3}
-\begin{frame}{SHA-3}
-\begin{itemize}
-	\item 2007 rief NIST zu einem Wettbewerb auf
-\pause	
-	\item 191 Einreichungen, 5 Finalisten
-\pause
-	\item bisher langsamer als SHA2
-\end{itemize}
-\note[item]{sha3 finalisten allesamt nicht von attacken gegen prinzipielles \glqq merkle damgard \grqq  verfahren betroffen}
-\note[item]{merkle damgard: \glqq Aus den Nachrichtenbl"ocken wird durch wiederholte Anwendung der Kompressionsfunktion der Hashwert erzeugt \grqq }
-\note[item]{bisher langsamer, eventuell unn"otig da sha2 ungebroche+hoher migrationsaufwand}
+\begin{frame}
+\huge{Fragen?}
 \end{frame}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \end{document}
