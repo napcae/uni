@@ -1,21 +1,18 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  11 JUN 2012 11:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  26 JUN 2012 12:52
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **titelseite.tex
-(./titelseite.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
-c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
-h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
-h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
- icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
-iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
- lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
-ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
-ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
-.
+(C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\titelseite.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
 \Erstgutachter=\box26
 \Zweitgutachter=\box27
 
@@ -27,23 +24,373 @@ Type  H <return>  for immediate help.
                                                   
 l.12 \begin{titlepage}
                       
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.12 \begin{titlepage}
-                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+! Undefined control sequence.
+l.15 \includegraphics
+                     [width=\paperwidth]{logos/HFTL_Deckblatt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.15 \includegraphics[width=\paperwidth]
+                                        {logos/HFTL_Deckblatt}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.15 \includegraphics[width=\paperwidth]
+                                        {logos/HFTL_Deckblatt}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no L in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 ...udegraphics[width=\paperwidth]{logos/HFTL_
+                                                  Deckblatt}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
+! Extra }, or forgotten $.
+l.15 ...s[width=\paperwidth]{logos/HFTL_Deckblatt}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\endpicture ->\egroup 
+                      \hss \egroup \ht \@picbox \@picht \dp \@picbox \z@ \mb...
+l.16 \end{picture}
+                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\endpicture ->\egroup \hss \egroup 
+                                   \ht \@picbox \@picht \dp \@picbox \z@ \mb...
+l.16 \end{picture}
+                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 \end{picture}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.16 \end{picture}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.16 \end{picture}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.16 \end{picture}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) detected at line 16
+ []
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--22
+[] 
+ []
+
+! Undefined control sequence.
+l.26 {\huge
+           \bfseries Speicherkomponenten eines PC\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (100.70874pt too wide) in paragraph at lines 26--26
+ \OT1/cmss/bx/n/10 Speicherkomponenten 
+ []
+
+
+Overfull \hbox (22.60564pt too wide) in paragraph at lines 26--26
+ \OT1/cmss/bx/n/10 eines 
+ []
+
+
+Overfull \hbox (14.05563pt too wide) in paragraph at lines 26--26
+ \OT1/cmss/bx/n/10 PC 
+ []
+
+
+Overfull \hbox (55.3334pt too wide) in paragraph at lines 29--29
+ []\OT1/cmss/m/n/10 Studienarbeit 
+ []
+
+
+Overfull \hbox (14.77782pt too wide) in paragraph at lines 30--30
+ []\OT1/cmss/m/n/10 von 
+ []
+
+! Undefined control sequence.
+l.33 {\large
+            \bfseries Chi Trung Nguyen\\}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (15.1945pt too wide) in paragraph at lines 33--33
+ []\OT1/cmss/bx/n/10 Chi 
+ []
+
+
+Overfull \hbox (26.86124pt too wide) in paragraph at lines 33--33
+ \OT1/cmss/bx/n/10 Trung 
+ []
+
+
+Overfull \hbox (34.47237pt too wide) in paragraph at lines 33--33
+ \OT1/cmss/bx/n/10 Nguyen 
+ []
+
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+
+Overfull \hbox (9.97224pt too wide) in paragraph at lines 35--35
+ []\OT1/cmss/m/n/10 an 
+ []
+
+
+Overfull \hbox (13.0278pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 der 
+ []
+
+
+Overfull \hbox (47.41673pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 Hochschule 
+ []
+
+
+Overfull \hbox (6.47226pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 fr 
+ []
+
+
+Overfull \hbox (38.13893pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 Telekom- 
+ []
+
+
+Overfull \hbox (16.44446pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 mu- 
+ []
+
+
+Overfull \hbox (20.30559pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 nika- 
+ []
+
+
+Overfull \hbox (16.16669pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 tion 
+ []
+
+
+Overfull \hbox (29.15282pt too wide) in paragraph at lines 35--35
+ \OT1/cmss/m/n/10 Leipzig 
+ []
+
+
+Overfull \hbox (7.55556pt too wide) in paragraph at lines 36--36
+ []\OT1/cmss/m/n/10 in 
+ []
+
+
+Overfull \hbox (13.0278pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 der 
+ []
+
+
+Overfull \hbox (17.66669pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 Stu- 
+ []
+
+
+Overfull \hbox (10.88889pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 di- 
+ []
+
+
+Overfull \hbox (12.94444pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 en- 
+ []
+
+
+Overfull \hbox (18.75002pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 rich- 
+ []
+
+
+Overfull \hbox (18.94447pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 tung 
+ []
+
+
+Overfull \hbox (58.50008pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 Wirtschaftsin- 
+ []
+
+
+Overfull \hbox (14.52782pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 for- 
+ []
+
+
+Overfull \hbox (23.63895pt too wide) in paragraph at lines 36--36
+ \OT1/cmss/m/n/10 matik 
+ []
+
+
+Overfull \hbox (250.71259pt too wide) in paragraph at lines 39--42
+ [][] 
+ []
+
+
+Overfull \hbox (71.68065pt too wide) in paragraph at lines 43--45
+ []\OT1/cmss/m/n/10 Bearbeitungszeit: 
+ []
+
+
+Overfull \hbox (52.44455pt too wide) in paragraph at lines 43--45
+ \OT1/cmss/m/n/10 11.Juni 2012 
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 43--45
+ \OT1/cmss/m/n/10 -- 
+ []
+
+
+Overfull \hbox (49.66676pt too wide) in paragraph at lines 43--45
+ \OT1/cmss/m/n/10 11.Juli 2012 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> titelseite.tex
+                  
+*** (job aborted, no legal \end found)
+
  
 Here is how much of TeX's memory you used:
- 13 strings out of 493633
- 344 string characters out of 3143378
- 49245 words of memory out of 3000000
- 3411 multiletter control sequences out of 15000+200000
- 3945 words of font info for 15 fonts, out of 3000000 for 9000
- 831 hyphenation exceptions out of 8191
- 14i,1n,11p,89b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 19 strings out of 494045
+ 394 string characters out of 3145961
+ 49890 words of memory out of 3000000
+ 3409 multiletter control sequences out of 15000+200000
+ 4239 words of font info for 16 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 18i,8n,12p,90b,210s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
