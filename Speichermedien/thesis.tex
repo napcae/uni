@@ -70,11 +70,13 @@
 titelseite,%
 erklaerung,% Ist in KA Pflicht für Diplomarbeiten
 einleitung,% Motivation, Zielsetzung, Gliederung
-grundlagen,% Grundlagen 
-analyse,   % Problembeschreibung (Detail) und Related Work
-entwurf,   % Beschreibung der Problemlösung (Konzepte, allg. Architektur, ...)
-implemen,  % Beschreibung der Umsetzung/Implementierung
-eval,      % Nachweis und Auswertung
+%grundlagen,% Grundlagen 
+nichttechnisch,
+technisch,
+%analyse,   % Problembeschreibung (Detail) und Related Work
+%entwurf,   % Beschreibung der Problemlösung (Konzepte, allg. Architektur, ...)
+%implemen,  % Beschreibung der Umsetzung/Implementierung
+%eval,      % Nachweis und Auswertung
 zusammenf  % Zusammenfassung der Ergebnisse und Ausblick
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -99,9 +101,9 @@ zusammenf  % Zusammenfassung der Ergebnisse und Ausblick
 \ifnotdraft{
 {\parskip 0pt\tableofcontents} % toc bitte einzeilig
 \blankpage
-%\listoffigures
+\listoffigures
 %\blankpage
-%\listoftables
+\listoftables
 %\blankpage
 }
 
@@ -114,11 +116,13 @@ zusammenf  % Zusammenfassung der Ergebnisse und Ausblick
 \mainmatter
 \pagenumbering{arabic}
 \include{einleitung}  % Einleitung
-\include{grundlagen}  % Grundlagen
-\include{analyse}     % Analyse
-\include{entwurf}     % Entwurf
-\include{implemen}    % Implementierung
-\include{eval}        % Evaluierung
+%\include{grundlagen}  % Grundlagen
+\include {nichttechnisch}
+\include {technisch}
+%\include{analyse}     % Analyse
+%\include{entwurf}     % Entwurf
+%\include{implemen}    % Implementierung
+%\include{eval}        % Evaluierung
 \include{zusammenf}   % Zusammenfassung und Ausblick
 
 %% ++++++++++++++++++++++++++++++++++++++++++
