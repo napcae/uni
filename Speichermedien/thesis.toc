@@ -12,5 +12,14 @@
 \contentsline {subsection}{\numberline {3.2.1}Lochkarte}{5}{subsection.3.2.1}
 \contentsline {section}{\numberline {3.3}Magnetische Speicherung}{5}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Magnetb"ander}{5}{subsection.3.3.1}
-\contentsline {section}{\numberline {3.4}Verwandte Arbeiten}{5}{section.3.4}
+\contentsline {subsection}{\numberline {3.3.2}Kernspeicher}{5}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Festplatte}{5}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Elektronische Speicherung}{5}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}DRAM und SRAM}{5}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}ROM}{6}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Flash-EEPROM}{6}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Optische Speicherung}{6}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}CD}{6}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}DVD}{6}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Blu-Ray}{6}{subsection.3.5.3}
 \contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{7}{chapter.4}
