@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: titelseite.aux
+A level-1 auxiliary file: erklaerung.aux
+A level-1 auxiliary file: einleitung.aux
+A level-1 auxiliary file: nichttechnisch.aux
+A level-1 auxiliary file: technisch.aux
+A level-1 auxiliary file: zusammenf.aux
+The style file: ieeetr.bst
+Database file #1: thesis.bib
+Warning--empty publisher in Nguyen:2012fk
+Warning--empty journal in cite1
+You've used 2 entries,
+            1876 wiz_defined-function locations,
+            492 strings with 3628 characters,
+and the built_in function-call counts, 296 in all, are:
+= -- 23
+> -- 8
+< -- 0
++ -- 4
+- -- 2
+* -- 15
+:= -- 52
+add.period$ -- 3
+call.type$ -- 2
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 18
+empty$ -- 37
+format.name$ -- 2
+if$ -- 67
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 3
+newline$ -- 10
+num.names$ -- 2
+pop$ -- 13
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2
+stack$ -- 0
+substring$ -- 0
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 2
+width$ -- 3
+write$ -- 17
+(There were 2 warnings)
