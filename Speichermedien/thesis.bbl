@@ -1,10 +1,29 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{3}
+% this bibliography was produced with the style dinat.bst v2.5
+\makeatletter
+\newcommand{\dinatlabel}[1]%
+{\ifNAT@numbers\else\NAT@biblabelnum{#1}\hspace{2\labelsep}\fi}
+\makeatother
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax\def\url#1{\texttt{#1}}\fi
 
-\bibitem{Nguyen:2012fk}
-C.~T. Nguyen, {\em Das Bla}.
-\newblock 2012.
+\bibitem[wiki:Speicher(2012)]{wiki:Speicher}
+\dinatlabel{wiki:Speicher 2012} :
+\newblock \emph{Wikipedia: Speicher}.
+\newblock http://de.wikipedia.org/wiki/Speicher.
+\newblock June 2012. --
+\newblock URL \url{http://de.wikipedia.org/wiki/Speicher}
 
-\bibitem{cite1}
-trung, ``das ist 2,'' 2011.
+\bibitem[Gumm und Sommer(2009)]{gumm:info}
+\dinatlabel{Gumm und Sommer 2009} \textsc{Gumm}, H.P.~; \textsc{Sommer}, M.:
+\newblock \emph{Einf{\"u}hrung in die Informatik}.
+\newblock 8.
+\newblock Oldenbourg, 2009
+
+\bibitem[Roth(2011)]{roth:Speichermedien}
+\dinatlabel{Roth 2011} \textsc{Roth}, Christiane:
+\newblock Speichermedien.
+\newblock In: \emph{Belegarbeit Hard- und Softwaresysteme}
+\newblock (2011)
 
 \end{thebibliography}
