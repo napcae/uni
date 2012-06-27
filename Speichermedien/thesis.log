@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 JUN 2012 16:24
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 JUN 2012 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -668,7 +668,7 @@ File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
 \Zweitgutachter=\box35
 
-<logos/HFTL_Deckblatt.pdf, id=104, 597.19112pt x 845.07718pt>
+<logos/HFTL_Deckblatt.pdf, id=92, 597.19112pt x 845.07718pt>
 File: logos/HFTL_Deckblatt.pdf Graphic file (type pdf)
 
 <use logos/HFTL_Deckblatt.pdf>
@@ -773,14 +773,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 15BC61691F8C411E759551589E2BA3A1;1685.
+(rerunfilecheck)             Checksum: 23762D7C37E76F509A2FA99FC1CE21DF;1492.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
  ) 
 Here is how much of TeX's memory you used:
- 7554 strings out of 493633
- 105992 string characters out of 3143378
- 207481 words of memory out of 3000000
- 10614 multiletter control sequences out of 15000+200000
+ 7545 strings out of 493633
+ 105829 string characters out of 3143378
+ 207357 words of memory out of 3000000
+ 10608 multiletter control sequences out of 15000+200000
  37045 words of font info for 67 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  41i,11n,50p,320b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -789,10 +789,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></
 usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></u
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on thesis.pdf (18 pages, 647648 bytes).
+Output written on thesis.pdf (18 pages, 646513 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
- 47 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
