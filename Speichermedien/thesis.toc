@@ -1,7 +1,7 @@
 \select@language {ngerman}
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Zielsetzung der Arbeit}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Gliederung der Arbeit}{1}{section.1.2}
+\contentsline {section}{\numberline {1.2}Gliederung der Arbeit}{2}{section.1.2}
 \contentsline {chapter}{\numberline {2}Nichttechnische Speicherung}{3}{chapter.2}
 \contentsline {chapter}{\numberline {3}Technische Speicherung}{5}{chapter.3}
 \contentsline {section}{\numberline {3.1}Fotografische Speicherung}{5}{section.3.1}

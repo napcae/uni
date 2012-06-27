@@ -1,4 +1,4 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{5}
 % this bibliography was produced with the style dinat.bst v2.5
 \makeatletter
 \newcommand{\dinatlabel}[1]%
@@ -20,10 +20,23 @@
 \newblock 8.
 \newblock Oldenbourg, 2009
 
+\bibitem[Hansen und Neumann(2009)]{hansen:wi1}
+\dinatlabel{Hansen und Neumann 2009} \textsc{Hansen}, Hans~R.~;
+  \textsc{Neumann}, Gustaf:
+\newblock \emph{Wirtschaftsinformatik 1}.
+\newblock 10.
+\newblock UTB, 2009
+
 \bibitem[Roth(2011)]{roth:Speichermedien}
 \dinatlabel{Roth 2011} \textsc{Roth}, Christiane:
 \newblock Speichermedien.
 \newblock In: \emph{Belegarbeit Hard- und Softwaresysteme}
 \newblock (2011)
+
+\bibitem[Shannon(1948)]{shannon:math}
+\dinatlabel{Shannon 1948} \textsc{Shannon}, Claude~E.:
+\newblock \emph{A Mathematical Theory of Communication}.
+\newblock http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf.
+\newblock 1948
 
 \end{thebibliography}

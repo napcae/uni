@@ -186,7 +186,8 @@
 \@startsection{section}%
 {1}% Gliederungsebene
 {0mm}% Einzug
-{1.5ex plus 1ex minus 1.2ex}% Vorabstand
+%{1.5ex plus 1ex minus 1.2ex}% Vorabstand
+{0.5ex plus 0.5ex minus 0.5ex}
 {0.5ex plus 0.5ex minus 0.5ex}% Nachabstand
 {\chapterheadfont\Large\bfseries}% Stil
 }

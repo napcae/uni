@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 JUN 2012 18:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 JUN 2012 20:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -740,20 +740,20 @@ File: omsaer.fd 1999/12/27
 )
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
-) [1
+ [1
 
 
-]
+]) [2]
 \openout2 = `nichttechnisch.aux'.
 
 
-(./nichttechnisch.tex [2
+(./nichttechnisch.tex
+Kapitel 2.
+) [3
 
 
 
 ]
-Kapitel 2.
-) [3]
 \openout2 = `technisch.aux'.
 
  (./technisch.tex [4
@@ -774,7 +774,13 @@ Kapitel 4.
 ] [8
 
 
-] (./thesis.bbl) [9
+] (./thesis.bbl
+Underfull \hbox (badness 5970) in paragraph at lines 37--41
+[]\T1/aer/m/sc/12 Shannon\T1/aer/m/n/12 , Clau-de E.:  \T1/aer/m/it/12 A Ma-the
+-ma-ti-cal Theo-ry of Com-mu-ni-ca-ti-on\T1/aer/m/n/12 .
+ []
+
+) [9
 
 ] [10
 
@@ -791,30 +797,29 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 7608 strings out of 493633
- 106673 string characters out of 3143378
- 205446 words of memory out of 3000000
- 10641 multiletter control sequences out of 15000+200000
+ 7616 strings out of 493633
+ 106819 string characters out of 3143378
+ 205512 words of memory out of 3000000
+ 10647 multiletter control sequences out of 15000+200000
  50469 words of font info for 84 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 41i,11n,50p,428b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,50p,725b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pf
-b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
-local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (20 pages, 725942 bytes).
+b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (20 pages, 724893 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
+ 300 PDF objects out of 1000 (max. 8388607)
  254 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
+ 54 named destinations out of 1000 (max. 500000)
  190 words of extra memory for PDF output out of 10000 (max. 10000000)
 
