@@ -11,8 +11,8 @@
 \contentsline {subsection}{\numberline {3.3.1}Magnetb"ander}{5}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Kernspeicher}{5}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Festplatte}{5}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Elektronische Speicherung}{5}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}DRAM und SRAM}{5}{subsection.3.4.1}
+\contentsline {section}{\numberline {3.4}Elektronische Speicherung}{6}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}DRAM und SRAM}{6}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}ROM}{6}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}Flash-EEPROM}{6}{subsection.3.4.3}
 \contentsline {section}{\numberline {3.5}Optische Speicherung}{6}{section.3.5}
