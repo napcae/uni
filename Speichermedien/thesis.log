@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  28 JUN 2012 14:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  28 JUN 2012 14:46
 entering extended mode
 **thesis.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.tex
@@ -722,46 +722,38 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10> not available
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\nichttechnisch.tex
 Kapitel 2.
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \newline
-            
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 Package natbib Warning: Citation `spiegel:hoehle' on page 3 undefined on input 
-line 9.
+line 8.
 
 
 Package natbib Warning: Citation `carlen:kerbholz' on page 3 undefined on input
- line 12.
+ line 11.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--28
+Underfull \hbox (badness 10000) in paragraph at lines 8--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--28
+Underfull \hbox (badness 10000) in paragraph at lines 8--28
 
  []
 
-) [3
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--28
+
+ []
+
+[3
 
 
 
-] [4] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\technisch.tex
+]) [4] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\technisch.tex
 Kapitel 3.
 [5
 
@@ -826,7 +818,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (18 pages, 757570 bytes).
+Output written on thesis.pdf (18 pages, 757672 bytes).
 PDF statistics:
  290 PDF objects out of 1000 (max. 8388607)
  53 named destinations out of 1000 (max. 500000)
