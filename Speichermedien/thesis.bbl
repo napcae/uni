@@ -1,4 +1,4 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{10}
 % this bibliography was produced with the style dinat.bst v2.5
 \makeatletter
 \newcommand{\dinatlabel}[1]%
@@ -7,12 +7,20 @@
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax\def\url#1{\texttt{#1}}\fi
 
-\bibitem[wiki:Speicher(2012)]{wiki:Speicher}
-\dinatlabel{wiki:Speicher 2012} :
-\newblock \emph{Wikipedia: Speicher}.
-\newblock http://de.wikipedia.org/wiki/Speicher.
-\newblock June 2012. --
-\newblock URL \url{http://de.wikipedia.org/wiki/Speicher}
+\bibitem[Carlen(1991)]{carlen:kerbholz}
+\dinatlabel{Carlen 1991} \textsc{Carlen}, Louis:
+\newblock Zum rechtlichen Gebrauch von Kerbh{\"o}lzern im 17. Jahrhundert.
+\newblock In: \emph{Forschungen zur Rechtsarch{\"a}ologie und Rechtlichen
+  Volkskunde}
+\newblock 13 (1991), S.~173--177
+
+\bibitem[dpa u.\,a.(2012)dpa, AFP und boj]{spiegel:hoehle}
+\dinatlabel{dpa u.\,a. 2012} \textsc{dpa}~; \textsc{AFP}~; \textsc{boj}:
+\newblock \emph{Rote Handabdr{\"u}cke sind {\"a}lteste H{\"o}hlenmalerei
+  Europas}.
+\newblock
+  http://www.spiegel.de/wissenschaft/mensch/neandertaler-aelteste-hoehlenmalerei-europas-in-nordspanien-entdeckt-a-838916.html.
+\newblock June 2012
 
 \bibitem[Gumm und Sommer(2009)]{gumm:info}
 \dinatlabel{Gumm und Sommer 2009} \textsc{Gumm}, H.P.~; \textsc{Sommer}, M.:
@@ -38,5 +46,30 @@
 \newblock \emph{A Mathematical Theory of Communication}.
 \newblock http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf.
 \newblock 1948
+
+\bibitem[Wikipedia(2012{\natexlab{a}})]{wiki:buchdruck}
+\dinatlabel{Wikipedia 2012{\natexlab{a}}} \textsc{Wikipedia}:
+\newblock \emph{Buchdruck}.
+\newblock http://de.wikipedia.org/wiki/Buchdruck.
+\newblock 07 2012
+
+\bibitem[Wikipedia(2012{\natexlab{b}})]{wiki:papier}
+\dinatlabel{Wikipedia 2012{\natexlab{b}}} \textsc{Wikipedia}:
+\newblock \emph{Papier}.
+\newblock http://de.wikipedia.org/wiki/Papier.
+\newblock 07 2012
+
+\bibitem[Wikipedia(2012{\natexlab{c}})]{wiki:papyrus}
+\dinatlabel{Wikipedia 2012{\natexlab{c}}} \textsc{Wikipedia}:
+\newblock \emph{Papyrus}.
+\newblock http://de.wikipedia.org/wiki/Papyrus.
+\newblock 07 2012
+
+\bibitem[Wikipedia(2012{\natexlab{d}})]{wiki:Speicher}
+\dinatlabel{Wikipedia 2012{\natexlab{d}}} \textsc{Wikipedia}:
+\newblock \emph{Speicher}.
+\newblock http://de.wikipedia.org/wiki/Speicher.
+\newblock June 2012. --
+\newblock URL \url{http://de.wikipedia.org/wiki/Speicher}
 
 \end{thebibliography}
