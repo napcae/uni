@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  28 JUN 2012 10:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  28 JUN 2012 14:32
 entering extended mode
 **thesis.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.tex
@@ -721,6 +721,19 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10> not available
 ]) [2]
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\nichttechnisch.tex
 Kapitel 2.
+
+Package natbib Warning: Citation `spiegel:hoehle' on page 3 undefined on input 
+line 8.
+
+
+Package natbib Warning: Citation `carlen:kerbholz' on page 3 undefined on input
+ line 10.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--17
+
+ []
+
 ) [3
 
 
@@ -753,6 +766,9 @@ Underfull \hbox (badness 5970) in paragraph at lines 37--41
 
 ]
 No file thesis.ind.
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.aux
@@ -769,10 +785,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 7538 strings out of 494045
- 108164 string characters out of 3145961
+ 7540 strings out of 494045
+ 108197 string characters out of 3145961
  205018 words of memory out of 3000000
- 10572 multiletter control sequences out of 15000+200000
+ 10574 multiletter control sequences out of 15000+200000
  50469 words of font info for 84 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  41i,11n,50p,841b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -788,7 +804,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (18 pages, 753242 bytes).
+Output written on thesis.pdf (18 pages, 755972 bytes).
 PDF statistics:
  288 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)
