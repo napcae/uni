@@ -1,8 +1,19 @@
 % This file was created with JabRef 2.8.
 % Encoding: Cp1252
 
+@ARTICLE{carlen:kerbholz,
+  author = {Louis Carlen},
+  title = {Zum rechtlichen Gebrauch von Kerbhölzern im 17. Jahrhundert},
+  journal = {Forschungen zur Rechtsarchäologie und Rechtlichen Volkskunde},
+  year = {1991},
+  volume = {13},
+  pages = {173-177},
+  owner = {ctrungng},
+  timestamp = {2012.06.28}
+}
+
 @MISC{spiegel:hoehle,
-  author = {boj and dpa and AFP},
+  author = {dpa and AFP and boj},
   title = {Rote Handabrdrücke sind älteste Höhlenmalerei Europas},
   howpublished = {http://www.spiegel.de/wissenschaft/mensch/neandertaler-aelteste-hoehlenmalerei-europas-in-nordspanien-entdeckt-a-838916.html},
   month = {June},
