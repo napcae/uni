@@ -20,4 +20,4 @@
 \contentsline {subsection}{\numberline {3.5.2}DVD}{6}{subsection.3.5.2}
 \contentsline {subsection}{\numberline {3.5.3}Blu-Ray}{6}{subsection.3.5.3}
 \contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{7}{chapter.4}
-\contentsline {chapter}{Literaturverzeichnis}{9}{section*.4}
+\contentsline {chapter}{Literaturverzeichnis}{9}{section*.3}
