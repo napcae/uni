@@ -16,9 +16,9 @@
 \contentsline {subsection}{\numberline {3.2.1}Magnetb"ander}{6}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Kernspeicher}{6}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Festplatte}{6}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Optische Speicherung}{6}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}CD}{6}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}DVD}{6}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Blu-Ray}{6}{subsection.3.3.3}
-\contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{7}{chapter.4}
-\contentsline {chapter}{Literaturverzeichnis}{9}{section*.3}
+\contentsline {section}{\numberline {3.3}Optische Speicherung}{7}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}CD}{7}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}DVD}{7}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Blu-Ray}{7}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{9}{chapter.4}
+\contentsline {chapter}{Literaturverzeichnis}{11}{section*.3}

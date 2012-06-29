@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  29 JUN 2012 10:12
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  29 JUN 2012 10:34
 entering extended mode
 **thesis.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.tex
@@ -751,13 +751,14 @@ Kapitel 3.
 
 
 
-]) [6] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\zusammenf.tex
+] [6]) [7]
+(C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\zusammenf.tex [8
+
+
+
+]
 Kapitel 4.
-) [7
-
-
-
-] [8
+) [9] [10
 
 
 ] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.bbl
@@ -773,9 +774,9 @@ Underfull \hbox (badness 4518) in paragraph at lines 45--49
 -ma-ti-cal Theo-ry of Com-mu-ni-ca-ti-on\T1/aer/m/n/12 .
  []
 
-) [9
+) [11
 
-] [10
+] [12
 
 ]
 No file thesis.ind.
@@ -799,9 +800,9 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 7563 strings out of 494045
- 108830 string characters out of 3145961
- 205215 words of memory out of 3000000
+ 7567 strings out of 494045
+ 108866 string characters out of 3145961
+ 206215 words of memory out of 3000000
  10589 multiletter control sequences out of 15000+200000
  50469 words of font info for 84 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -819,9 +820,9 @@ x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (18 pages, 773594 bytes).
+Output written on thesis.pdf (20 pages, 779413 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 64 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
