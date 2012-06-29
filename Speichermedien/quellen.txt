@@ -1,3 +1,9 @@
 quellen
 
 http://openbook.galileocomputing.de/linux/linux_kap05_001.html#dodtpb6e7eb6a-50a1-4391-a67f-33dfc4edf4ce
+
+http://en.wikipedia.org/wiki/Dynamic_Random_Access_Memory
+
+http://en.wikipedia.org/wiki/Static_random-access_memory
+
+http://en.wikipedia.org/wiki/Read-only_memory
