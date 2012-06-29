@@ -12,5 +12,3 @@ http://en.wikipedia.org/wiki/Programmable_read-only_memory
 
 http://de.wikipedia.org/wiki/USB-Stick
 http://de.wikipedia.org/wiki/Solid-State-Drive
-
-http://openbook.galileocomputing.de/linux/linux_kap05_001.html#dodtpb6e7eb6a-50a1-4391-a67f-33dfc4edf4ce
