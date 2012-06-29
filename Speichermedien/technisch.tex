@@ -13,6 +13,7 @@
     %% ==============================
 	
 	Alle Speichermedien die Daten auf Basis von elektronischen Bauelementen speichern sind unter dem Begriff elektronische Speicher zusammengefasst. Heutzutage werden die integrierten Schaltkreise, die zur elektrischen Speicherung notwendig sind fast nur noch mit Silizium realisert. Die einzelnen k"onnen beliebig angesprochen werden, es ist also keine weitere Teilung des Speichers in Sequenzen notwendig. Weiter unterschieden werden elektronische Speichermedien in fl"uchtige Speicher, permanente Speicher und semi-permanente Speicher.
+	
         \subsection{Fl"uchtig}
         %% ==============================
         \label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig}
@@ -25,18 +26,20 @@
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:DRAM}
 				%% ==============================
 				
-				Beim \glqq Dynamic Random Access Memory\grqq{} handelt es sich um Speicherbausteine, die nach dem Abschalten der angelegten Spannungsversorgung oder zu späten Wiederauffrischung ihren Dateninhalt auf den Speicherzellen verlieren. Der volatile\footnote[4]{fl"uchtig} Speicher wird haupts"achlich in Computern als Arbeitspeicher eingesetzt, man findet ihn aber auch beispielsweise in Druckern oder in Videospielkonsolen.
-				\\
-				Technisch gesehen speichert ein Kondensator die Daten, also Einsen und Nullen in dem er entweder geladen oder entladen ist. Ein Schalttransistor beschreibt oder liest den Inhalt dann aus.
+					Beim \glqq Dynamic Random Access Memory\grqq{} handelt es sich um Speicherbausteine, die nach dem Abschalten der angelegten Spannungsversorgung oder zu späten Wiederauffrischung ihren Dateninhalt auf den Speicherzellen verlieren. Der volatile\footnote[4]{fl"uchtig} Speicher wird haupts"achlich in Computern als Arbeitspeicher eingesetzt, man findet ihn aber auch beispielsweise in Druckern oder in Videospielkonsolen.
+					\\
+					Technisch gesehen speichert ein Kondensator die Daten, also Einsen und Nullen in dem er entweder geladen oder entladen ist. Ein Schalttransistor beschreibt oder liest den Inhalt dann aus.
 				
 				\subsubsection{SRAM}
 				%% ==============================
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:SRAM}
 				%% ==============================
 				
-				Der \glqq Static Random Access Memory\grqq{} ist wie der DRAM ebenfalls ein Halbleiterspeicher, der volatil ist. Dauerhaft kann er Daten nur speichern, wenn er mit Strom versorgt wird. Der Unterschied zum DRAM ist dabei, dass der Inhalt nicht wiederaufgefrischt werden muss, da SRAM mit Flipflops realisert wird. Ein Flipflop oder auch bistabile Kippstufe kann zwei Zust"ande(Eins oder Null) einnehmen und "uber lange Zeit speichern, allerdings ist die Speicherzelle des SRAM im Vergleich zum DRAM relativ gro"s.
-				\\
-				Anwendung findet SRAM in Prozessoren als \textit{Cache} oder in Bereichen bei denen der Dateninhalt "uber l"angere Zeit gespeichert werden soll wie beim CMOS-RAM zur Erhaltung von BIOS-Einstellung\footnote[5]{Basic Input Output System} in PCs und Laptops. Zur Aufrechterhaltung der Stromversorung gen"ugt meist eine kleine Pufferbatterie.
+					Der \glqq Static Random Access Memory\grqq{} ist wie der DRAM ebenfalls ein Halbleiterspeicher, der volatil ist. Dauerhaft kann er Daten nur speichern, wenn er mit Strom versorgt wird. Der Unterschied zum DRAM ist dabei, dass der Inhalt nicht wiederaufgefrischt werden muss, da SRAM mit Flipflops realisert wird. Ein Flipflop oder auch bistabile Kippstufe kann zwei Zust"ande(Eins oder Null) einnehmen und "uber lange Zeit speichern, allerdings ist die Speicherzelle des SRAM im Vergleich zum DRAM relativ gro"s.
+					\\
+					Anwendung findet SRAM in Prozessoren als \textit{Cache} oder in Bereichen bei denen der Dateninhalt "uber l"angere Zeit gespeichert werden soll wie beim CMOS-RAM zur Erhaltung von BIOS-Einstellung\footnote[5]{Basic Input Output System} in PCs und Laptops. Zur Aufrechterhaltung der Stromversorung gen"ugt meist eine kleine Pufferbatterie.
+					
+					%%todo: l1 cache und l2 cache?
         
         \subsection{Permanent}
         %% ==============================
@@ -50,20 +53,20 @@
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:ROM}
 				%% ==============================
 				
-				Ein typisches Beispiel f"uer permanten Speicher ist der \glqq Read Only Memory \grqq{} – zu Deutsch \textit{Festwertspeicher} oder \textit{Nur-Lese-Speicher}. ROM kann nur einmal beschrieben werden, dann lassen sich die darauf geschriebenen Daten nicht mehr oder nur sehr langsam oder schwer ver"andern. 
-				\\
-				Die Hauptanwendung ist somit die Verbreitung und Speicherung von Firmware\footnote[6]{Software die spezifisch an Hardware angepasst ist, "ahnlich einem Betriebsystem, aber selten ein Update braucht}. Auch das BIOS eines PCs ist auf einem ROM gespeichert.
-				\\
-				Klassische Masken-ROM werden so genannt, weil urspr"unglich ROM in der Herstellung mit einer Art Filmnegativ – der \glqq Maske\grqq{} direkt auf den Chip aufbelichtet wird. Das Verfahren ist aber nur in Massenproduktion "okonomisch Sinnvoll, weshalb bald Speicherbausteine entwickelt wurden, die auch nach der Fertigung noch mit Daten bef"ullt werden konnten.
+					Ein typisches Beispiel f"uer permanten Speicher ist der \glqq Read Only Memory \grqq{} – zu Deutsch \textit{Festwertspeicher} oder \textit{Nur-Lese-Speicher}. ROM kann nur einmal beschrieben werden, dann lassen sich die darauf geschriebenen Daten nicht mehr oder nur sehr langsam oder schwer ver"andern. 
+					\\
+					Die Hauptanwendung ist somit die Verbreitung und Speicherung von Firmware\footnote[6]{Software die spezifisch an Hardware angepasst ist, "ahnlich einem Betriebsystem, aber selten ein Update braucht}. Auch das BIOS eines PCs ist auf einem ROM gespeichert.
+					\\
+					Klassische Masken-ROM werden so genannt, weil urspr"unglich ROM in der Herstellung mit einer Art Filmnegativ – der \glqq Maske\grqq{} direkt auf den Chip aufbelichtet wird. Das Verfahren ist aber nur in Massenproduktion "okonomisch Sinnvoll, weshalb bald Speicherbausteine entwickelt wurden, die auch nach der Fertigung noch mit Daten bef"ullt werden konnten.
 				
 				\subsubsection{PROM}
 				%% ==============================
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:PROM}
 				%% ==============================
 				
-				Einer dieser neu entwickelten Speicherbausteine ist das \glqq Programmable Read Only Memory\grqq{}. Diese lassen sich nach der Fertigung genau einmal Programmieren und behalten dann ihren Zustand. Anfangs enthalten alle Speicherzellen eine \glqq 1\grqq{},einzelne Speicherzellen k"onnen dann sp"ater in eine \glqq0 \grqq{} gewandelt werden.
-				\\
-				Praktisch werden PROMs heute nicht mehr verwendet. 
+					Einer dieser neu entwickelten Speicherbausteine ist das \glqq Programmable Read Only Memory\grqq{}. Diese lassen sich nach der Fertigung genau einmal Programmieren und behalten dann ihren Zustand. Anfangs enthalten alle Speicherzellen eine \glqq 1\grqq{},einzelne Speicherzellen k"onnen dann sp"ater in eine \glqq0 \grqq{} gewandelt werden.
+					\\
+					Praktisch werden PROMs heute nicht mehr verwendet. 
             
         \subsection{Semi-permanent}
         %% ==============================
@@ -77,14 +80,16 @@
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:EPROM}
 				%% ==============================
 					
-				Bei der EPROM-Technologie handelt es sich um die Weiterentwicklung von ROM. EPROM steht f"ur \glqq Erasable Programmable Read Only Memory\grqq{} und ist ROM, der aber auch wieder gel"oscht(und damit ver"andert) werden kann. Damit man aber EPROMs programmieren kann, bedarf es spezieller Progammierger"ate – dem \glqq EPROM-Brenner\grqq{}. Mit UV-Licht kann der Speicher dann wieder gel"oscht werden.
-				\\
-				Weiterhin gibt es noch elektronisch l"oschbaren Speicher EEPROM(\glqq Electrical Erasable Read Only Memory\grqq{}), welcher aber vom Flash-PROM verdr"angt wurde.
+					Bei der EPROM-Technologie handelt es sich um die Weiterentwicklung von ROM. EPROM steht f"ur \glqq Erasable Programmable Read Only Memory\grqq{} und ist ROM, der aber auch wieder gel"oscht(und damit ver"andert) werden kann. Damit man aber EPROMs programmieren kann, bedarf es spezieller Progammierger"ate – dem \glqq EPROM-Brenner\grqq{}. Mit UV-Licht kann der Speicher dann wieder gel"oscht werden.
+					\\
+					Weiterhin gibt es noch elektronisch l"oschbaren Speicher EEPROM(\glqq Electrical Erasable Read Only Memory\grqq{}), welcher aber vom Flash-PROM verdr"angt wurde.
 				
 				\subsubsection{Flash-PROM}
 				%% ==============================
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:Flash-PROM}
 				%% ==============================
+				
+				
 				
 				\subsubsection{SSD}
 				%% ==============================
