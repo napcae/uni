@@ -11,3 +11,4 @@ http://en.wikipedia.org/wiki/Read-only_memory
 http://en.wikipedia.org/wiki/Programmable_read-only_memory
 
 http://de.wikipedia.org/wiki/USB-Stick
+http://de.wikipedia.org/wiki/Solid-State-Drive
