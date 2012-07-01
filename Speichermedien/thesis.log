@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 17:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 17:52
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -704,12 +704,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [4
 
-] (./thesis.lof)
-\tf@lof=\write6
-\openout6 = `thesis.lof'.
-
- [5] [6
-
 ]
 \openout2 = `einleitung.aux'.
 
@@ -729,14 +723,14 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10> not available
 
 
 ]
-<images/hohlenmalerei.jpeg, id=200, 600.2425pt x 602.25pt>
+<images/hohlenmalerei.jpeg, id=186, 600.2425pt x 602.25pt>
 File: images/hohlenmalerei.jpeg Graphic file (type jpg)
 
 <use images/hohlenmalerei.jpeg>
 Package pdftex.def Info: images/hohlenmalerei.jpeg used on input line 43.
 (pdftex.def)             Requested size: 298.75264pt x 299.755pt.
 
-<images/speicherpyramide.png, id=204, 660.4675pt x 382.42876pt>
+<images/speicherpyramide.png, id=190, 660.4675pt x 382.42876pt>
 File: images/speicherpyramide.png Graphic file (type png)
 
 <use images/speicherpyramide.png>
@@ -884,22 +878,34 @@ Underfull \hbox (badness 4518) in paragraph at lines 45--49
 
 ] [16
 
+] (./thesis.lof)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ [17] [18
+
+] (./thesis.lot)
+\tf@lot=\write7
+\openout7 = `thesis.lot'.
+
+ [19] [20
+
 ]
 No file thesis.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
 (./thesis.aux (./titelseite.aux) (./erklaerung.aux) (./einleitung.aux)
 (./nichttechnisch.aux) (./technisch.aux) (./zusammenf.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: EC305DE3E5BDD5F72720F0853C35F40B;1727.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
+(rerunfilecheck)             Checksum: B187A7F2AC29B24DE14C6FEF42FA722B;1727.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
  ) 
 Here is how much of TeX's memory you used:
- 7703 strings out of 493633
- 108659 string characters out of 3143378
- 211977 words of memory out of 3000000
+ 7709 strings out of 493633
+ 108712 string characters out of 3143378
+ 211976 words of memory out of 3000000
  10705 multiletter control sequences out of 15000+200000
  54024 words of font info for 92 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
@@ -918,10 +924,10 @@ l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
 texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (22 pages, 919538 bytes).
+Output written on thesis.pdf (24 pages, 920430 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 315 compressed objects within 4 object streams
- 75 named destinations out of 1000 (max. 500000)
+ 379 PDF objects out of 1000 (max. 8388607)
+ 323 compressed objects within 4 object streams
+ 78 named destinations out of 1000 (max. 500000)
  216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
