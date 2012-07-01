@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 17:52
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 18:24
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -862,23 +862,45 @@ Kapitel 4.
 
 
 ] (./thesis.bbl
-Underfull \hbox (badness 3219) in paragraph at lines 18--24
-[]\T1/aer/m/sc/12 dpa \T1/aer/m/n/12 ; \T1/aer/m/sc/12 AFP \T1/aer/m/n/12 ; \T1
-/aer/m/sc/12 boj\T1/aer/m/n/12 :  \T1/aer/m/it/12 Ro-te Han-d-ab-drücke sind äl
--tes-te Höh-len-ma-le-rei
+Underfull \hbox (badness 1019) in paragraph at lines 11--15
+[]\T1/aer/m/n/12 dpa, AFP, and boj, ``Ro-te han-d-ab-drücke sind äl-tes-te höh-
+len-ma-le-rei eu-
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 45--49
-[]\T1/aer/m/sc/12 Shannon\T1/aer/m/n/12 , Clau-de E.:  \T1/aer/m/it/12 A Ma-the
--ma-ti-cal Theo-ry of Com-mu-ni-ca-ti-on\T1/aer/m/n/12 .
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+\T1/aer/m/n/12 ro-pas.'' http://www.spiegel.de/wissenschaft/mensch/neandertaler
+-aelteste-
+ []
+
+
+Overfull \hbox (80.23518pt too wide) in paragraph at lines 22--24
+[]\T1/aer/m/n/12 ``Speicherpyramide.'' http://openbook.galileocomputing.de/linu
+x/bilder/speicherpyramide.png. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+[]\T1/aer/m/n/12 dpa, ``Höh-len-ma-le-rei.'' http://www.spiegel.de/fotostrecke/
+neandertaler-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+\T1/aer/m/n/12 aelteste-hoehlenmalerei-europas-in-nordspanien-entdeckt-fotostre
+cke-
  []
 
 ) [15
 
 ] [16
 
-] (./thesis.lof)
+] (./thesis.lof
+
+Package natbib Warning: Citation `fig:speicherpyramide' on page 17 undefined on
+ input line 4.
+
+)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
@@ -892,27 +914,29 @@ Underfull \hbox (badness 4518) in paragraph at lines 45--49
 
 ]
 No file thesis.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
 (./thesis.aux (./titelseite.aux) (./erklaerung.aux) (./einleitung.aux)
 (./nichttechnisch.aux) (./technisch.aux) (./zusammenf.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: B187A7F2AC29B24DE14C6FEF42FA722B;1727.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
- 7709 strings out of 493633
- 108712 string characters out of 3143378
- 211976 words of memory out of 3000000
- 10705 multiletter control sequences out of 15000+200000
- 54024 words of font info for 92 fonts, out of 3000000 for 9000
+ 7720 strings out of 493633
+ 109036 string characters out of 3143378
+ 211914 words of memory out of 3000000
+ 10716 multiletter control sequences out of 15000+200000
+ 51345 words of font info for 88 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  41i,11n,45p,886b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
-b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
@@ -924,10 +948,10 @@ l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
 texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (24 pages, 920430 bytes).
+Output written on thesis.pdf (24 pages, 907702 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 323 compressed objects within 4 object streams
- 78 named destinations out of 1000 (max. 500000)
+ 380 PDF objects out of 1000 (max. 8388607)
+ 325 compressed objects within 4 object streams
+ 82 named destinations out of 1000 (max. 500000)
  216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
