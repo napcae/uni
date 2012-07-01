@@ -14,3 +14,5 @@ http://de.wikipedia.org/wiki/USB-Stick
 http://de.wikipedia.org/wiki/Solid-State-Drive
 
 http://de.wikipedia.org/wiki/Festplattenlaufwerk
+
+http://www.bluray-disc.de/faq/wie-schnell-kann-man-daten-auf-eine-blu-ray-disc-schreibenlesen

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 JUN 2012 16:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -33,5 +33,5 @@ Here is how much of TeX's memory you used:
  3405 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 5i,0n,1p,70b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5i,0n,1p,69b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
