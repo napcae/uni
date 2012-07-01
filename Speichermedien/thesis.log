@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 15:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 15:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -787,74 +787,79 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 137.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-Overfull \hbox (4.01811pt too wide) in paragraph at lines 137--138
+Overfull \hbox (4.01811pt too wide) in paragraph at lines 137--140
 \T1/aer/m/n/12 gen-nan-te ^^Rge-brann-te^^P Disks) in Form von Er-hö-hun-gen(Pi
 ts) und Ver-tie-fun-gen(Lands)
  []
 
 [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 144.
+(Font)              <10.95> on input line 146.
 
-Underfull \hbox (badness 6944) in paragraph at lines 147--147
+Underfull \hbox (badness 6944) in paragraph at lines 149--149
 []|\T1/aer/m/n/10.95 4,7 GB (Sin-gle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 \T1/aer/m/n/10.95 8,5 GB (Du-al
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 []|\T1/aer/m/n/10.95 25 GB (Sin-gle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
 []|\T1/aer/m/n/10.95 176 KB/s (CD-
  []
 
 
-Overfull \hbox (1.0714pt too wide) in paragraph at lines 149--149
+Overfull \hbox (1.0714pt too wide) in paragraph at lines 151--151
 []|\T1/aer/m/n/10.95 Schreibgeschwindigkeit| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
 []|\T1/aer/m/n/10.95 150 KB/s (1x)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
 []|\T1/aer/m/n/10.95 4,5 MB/s (1x)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 []|\T1/aer/m/n/10.95 Datenspeicher,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 []|\T1/aer/m/n/10.95 Datenspeicher,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
 []|\T1/aer/m/n/10.95 Datenspeicher,
  []
 
-) [8]
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+[8]) [9]
 \openout2 = `zusammenf.aux'.
 
- (./zusammenf.tex
+ (./zusammenf.tex [10
+
+
+
+]
 Kapitel 4.
-) [9
-
-
-
-] [10
+) [11] [12
 
 
 ] (./thesis.bbl
@@ -870,9 +875,9 @@ Underfull \hbox (badness 4518) in paragraph at lines 45--49
 -ma-ti-cal Theo-ry of Com-mu-ni-ca-ti-on\T1/aer/m/n/12 .
  []
 
-) [11
+) [13
 
-] [12
+] [14
 
 ]
 No file thesis.ind.
@@ -884,12 +889,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: EC305DE3E5BDD5F72720F0853C35F40B;1727.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 7684 strings out of 493633
- 108288 string characters out of 3143378
- 210863 words of memory out of 3000000
+ 7686 strings out of 493633
+ 108302 string characters out of 3143378
+ 211863 words of memory out of 3000000
  10695 multiletter control sequences out of 15000+200000
  54024 words of font info for 92 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
@@ -908,10 +917,10 @@ l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
 texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (20 pages, 762330 bytes).
+Output written on thesis.pdf (22 pages, 764256 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
- 70 named destinations out of 1000 (max. 500000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 305 compressed objects within 4 object streams
+ 72 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
