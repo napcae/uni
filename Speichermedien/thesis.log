@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 13:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 14:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,7 +781,18 @@ Overfull \hbox (14.45747pt too wide) in paragraph at lines 83--86
 ier-ge-rä-te ^^U dem ^^REPROM-
  []
 
-[6] [7]) [8]
+[6]
+LaTeX Font Info:    Try loading font information for T1+aett on input line 137.
+
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/ae/t1aett.fd
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
+Overfull \hbox (4.01811pt too wide) in paragraph at lines 137--138
+\T1/aer/m/n/12 gen-nan-te ^^Rge-brann-te^^P Disks) in Form von Er-hö-hun-gen(Pi
+ts) und Ver-tie-fun-gen(Lands)
+ []
+
+[7]) [8]
 \openout2 = `zusammenf.aux'.
 
  (./zusammenf.tex
@@ -820,18 +831,14 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: EC305DE3E5BDD5F72720F0853C35F40B;1727.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 7646 strings out of 493633
- 107675 string characters out of 3143378
- 208761 words of memory out of 3000000
- 10667 multiletter control sequences out of 15000+200000
- 50469 words of font info for 84 fonts, out of 3000000 for 9000
+ 7671 strings out of 493633
+ 108092 string characters out of 3143378
+ 209761 words of memory out of 3000000
+ 10687 multiletter control sequences out of 15000+200000
+ 50959 words of font info for 86 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  41i,11n,45p,889b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -846,11 +853,12 @@ al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/loca
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local
 /texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loca
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (20 pages, 754877 bytes).
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (20 pages, 757827 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
+ 341 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
  67 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
