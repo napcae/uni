@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 17:35
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 17:44
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -729,17 +729,23 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10> not available
 
 
 ]
-<images/hohlenmalerei.jpeg, id=198, 600.2425pt x 602.25pt>
+<images/hohlenmalerei.jpeg, id=200, 600.2425pt x 602.25pt>
 File: images/hohlenmalerei.jpeg Graphic file (type jpg)
 
 <use images/hohlenmalerei.jpeg>
 Package pdftex.def Info: images/hohlenmalerei.jpeg used on input line 43.
 (pdftex.def)             Requested size: 298.75264pt x 299.755pt.
- [2 <./images/hohlenmalerei.jpeg>]) [3]
+
+<images/speicherpyramide.png, id=204, 660.4675pt x 382.42876pt>
+File: images/speicherpyramide.png Graphic file (type png)
+
+<use images/speicherpyramide.png>
+Package pdftex.def Info: images/speicherpyramide.png used on input line 57.
+(pdftex.def)             Requested size: 298.75264pt x 172.98999pt.
+ [2 <./images/hohlenmalerei.jpeg>]) [3 <./images/speicherpyramide.png>]
 \openout2 = `nichttechnisch.aux'.
 
-
-(./nichttechnisch.tex [4
+ (./nichttechnisch.tex [4
 
 
 
@@ -891,10 +897,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 7696 strings out of 493633
- 108488 string characters out of 3143378
- 211929 words of memory out of 3000000
- 10700 multiletter control sequences out of 15000+200000
+ 7703 strings out of 493633
+ 108659 string characters out of 3143378
+ 211977 words of memory out of 3000000
+ 10705 multiletter control sequences out of 15000+200000
  54024 words of font info for 92 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  41i,11n,45p,886b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -912,10 +918,10 @@ l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
 texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (22 pages, 911023 bytes).
+Output written on thesis.pdf (22 pages, 919538 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 312 compressed objects within 4 object streams
- 74 named destinations out of 1000 (max. 500000)
- 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 369 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
+ 75 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
