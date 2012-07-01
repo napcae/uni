@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 15:21
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 JUL 2012 17:35
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **thesis.tex
 (./thesis.tex
@@ -686,37 +687,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logos
-/HFTL_Deckblatt.pdf>]) [2
-
-
-
-]
+/HFTL_Deckblatt.pdf>])
 \openout2 = `erklaerung.aux'.
 
  (./erklaerung.tex
-[3
-
-]) [4
+[2
 
 
-
-
-] (./thesis.toc)
+]) (./thesis.toc)
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [5
+ [3
 
-] [6
 
+
+] [4
 
 ] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [7
-
-] [8
+ [5] [6
 
 ]
 \openout2 = `einleitung.aux'.
@@ -736,11 +728,22 @@ LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10> not available
  [1
 
 
-]) [2]
+]
+<images/hohlenmalerei.jpeg, id=198, 600.2425pt x 602.25pt>
+File: images/hohlenmalerei.jpeg Graphic file (type jpg)
+
+<use images/hohlenmalerei.jpeg>
+Package pdftex.def Info: images/hohlenmalerei.jpeg used on input line 43.
+(pdftex.def)             Requested size: 298.75264pt x 299.755pt.
+ [2 <./images/hohlenmalerei.jpeg>]) [3]
 \openout2 = `nichttechnisch.aux'.
 
 
-(./nichttechnisch.tex
+(./nichttechnisch.tex [4
+
+
+
+]
 Kapitel 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--28
@@ -762,16 +765,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--28
 
  []
 
-[3
-
-
-
-]) [4]
+[5]) [6]
 \openout2 = `technisch.aux'.
 
  (./technisch.tex
 Kapitel 3.
-[5
+[7
 
 
 
@@ -781,7 +780,7 @@ Overfull \hbox (14.45747pt too wide) in paragraph at lines 83--86
 ier-ge-rä-te ^^U dem ^^REPROM-
  []
 
-[6]
+[8]
 LaTeX Font Info:    Try loading font information for T1+aett on input line 137.
 
  (/usr/local/texlive/2011/texmf-dist/tex/latex/ae/t1aett.fd
@@ -792,7 +791,7 @@ Overfull \hbox (4.01811pt too wide) in paragraph at lines 137--140
 ts) und Ver-tie-fun-gen(Lands)
  []
 
-[7]
+[9]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 146.
 
@@ -850,16 +849,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
 
-[8]) [9]
+[10]) [11]
 \openout2 = `zusammenf.aux'.
 
- (./zusammenf.tex [10
+ (./zusammenf.tex [12
 
 
 
 ]
 Kapitel 4.
-) [11] [12
+) [13] [14
 
 
 ] (./thesis.bbl
@@ -875,9 +874,9 @@ Underfull \hbox (badness 4518) in paragraph at lines 45--49
 -ma-ti-cal Theo-ry of Com-mu-ni-ca-ti-on\T1/aer/m/n/12 .
  []
 
-) [13
+) [15
 
-] [14
+] [16
 
 ]
 No file thesis.ind.
@@ -889,20 +888,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: EC305DE3E5BDD5F72720F0853C35F40B;1727.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
  ) 
 Here is how much of TeX's memory you used:
- 7686 strings out of 493633
- 108302 string characters out of 3143378
- 211863 words of memory out of 3000000
- 10695 multiletter control sequences out of 15000+200000
+ 7696 strings out of 493633
+ 108488 string characters out of 3143378
+ 211929 words of memory out of 3000000
+ 10700 multiletter control sequences out of 15000+200000
  54024 words of font info for 92 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 41i,11n,45p,889b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,45p,886b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pf
@@ -917,10 +912,10 @@ l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
 texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (22 pages, 764256 bytes).
+Output written on thesis.pdf (22 pages, 911023 bytes).
 PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 305 compressed objects within 4 object streams
- 72 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
