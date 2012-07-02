@@ -35,11 +35,10 @@
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:SRAM}
 				%% ==============================
 				
-					Der \glqq Static Random Access Memory\grqq{} ist wie der DRAM ebenfalls ein Halbleiterspeicher, der volatil ist. Dauerhaft kann er Daten nur speichern, wenn er mit Strom versorgt wird. Der Unterschied zum DRAM ist dabei, dass der Inhalt nicht wiederaufgefrischt werden muss, da SRAM mit Flipflops realisert wird. Ein Flipflop oder auch bistabile Kippstufe kann zwei Zust"ande(Eins oder Null) einnehmen und "uber lange Zeit speichern, allerdings ist die Speicherzelle des SRAM im Vergleich zum DRAM relativ gro"s.
+					Der \glqq Static Random Access Memory\grqq{} ist wie der DRAM ebenfalls ein Halbleiterspeicher, der volatil ist. Dauerhaft kann er Daten nur speichern, wenn er mit Strom versorgt wird. Der Unterschied zum DRAM ist dabei, dass der Inhalt nicht wiederaufgefrischt werden muss, da SRAM mit Flipflops realisiert wird. Ein Flipflop oder auch bistabile Kippstufe kann zwei Zust"ande(Eins oder Null) einnehmen und "uber lange Zeit speichern, allerdings ist die Speicherzelle des SRAM im Vergleich zum DRAM relativ gro"s.
 					\\
 					Anwendung findet SRAM in Prozessoren als \textit{Cache} oder in Bereichen bei denen der Dateninhalt "uber l"angere Zeit gespeichert werden soll wie beim CMOS-RAM zur Erhaltung von BIOS-Einstellung\footnote{Basic Input Output System} in PCs und Laptops. Zur Aufrechterhaltung der Stromversorung gen"ugt meist eine kleine Pufferbatterie.
 					
-					todo: l1 cache und l2 cache?
         
         \subsection{Permanent}
         %% ==============================
@@ -53,7 +52,7 @@
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:ROM}
 				%% ==============================
 				
-					Ein typisches Beispiel f"uer permanten Speicher ist der \glqq Read Only Memory \grqq{} – zu Deutsch \textit{Festwertspeicher} oder \textit{Nur-Lese-Speicher}. ROM kann nur einmal beschrieben werden, dann lassen sich die darauf geschriebenen Daten nicht mehr oder nur sehr langsam oder schwer ver"andern. 
+					Ein typisches Beispiel f"uer permanten Speicher ist der \glqq Read Only Memory\grqq{} – zu Deutsch \textit{Festwertspeicher} oder \textit{Nur-Lese-Speicher}. ROM kann nur einmal beschrieben werden, dann lassen sich die darauf geschriebenen Daten nicht mehr, nur sehr langsam oder schwer ver"andern. 
 					\\
 					Die Hauptanwendung ist somit die Verbreitung und Speicherung von Firmware\footnote{Software die spezifisch an Hardware angepasst ist, "ahnlich einem Betriebsystem, aber selten ein Update braucht}. Auch das BIOS eines PCs ist auf einem ROM gespeichert.
 					\\
@@ -64,7 +63,7 @@
 				\label{ch:Technisch:sec:Elektronische Speicherung:sub:Fl"uchtig:subsub:PROM}
 				%% ==============================
 				
-					Einer dieser neu entwickelten Speicherbausteine ist das \glqq Programmable Read Only Memory\grqq{}. Diese lassen sich nach der Fertigung genau einmal Programmieren und behalten dann ihren Zustand. Anfangs enthalten alle Speicherzellen eine \glqq 1\grqq{},einzelne Speicherzellen k"onnen dann sp"ater in eine \glqq0 \grqq{} gewandelt werden.
+					Einer dieser neu entwickelten Speicherbausteine ist das \glqq Programmable Read Only Memory\grqq{}. Diese lassen sich nach der Fertigung genau einmal Programmieren und behalten dann ihren Zustand. Anfangs enthalten alle Speicherzellen eine \glqq 1\grqq{}, einzelne Speicherzellen k"onnen dann sp"ater in eine \glqq0\grqq{} gewandelt werden.
 					\\
 					Praktisch werden PROMs heute nicht mehr verwendet. 
             
@@ -130,8 +129,16 @@
         %% ==============================
         
             Die Festplatte oder das Festplattenlaufwerk speichert Informationen, in dem sie Daten auf die Oberfl"ache einer rotierenden Scheibe schreibt. Die Scheiben sind genau "ubereinander gelagert und drehen sich zur selben Zeit. Die hartmagnetische Beschichtung an der Plattenoberfl"ache wird dann mit den Lese-Schreib-Kopf entweder gelesen oder beschrieben. Auf die Daten kann wahlfrei zugegriffen werden und auch nach dem Ausschalten bleiben die Daten durch Remanenz\footnote{Remanenz ist die zur"uckbleibende Magnetisierung eines magnetischen K"orpers} erhalten. W"ahrend die erste Fesplatte noch eine Tonne wog und nur eine Kapazit"at von 5 Megabyte hatte, haben heutige Festplatten eine Gr"o"se von bis zu 4 Terabyte. Im Gegensatz zu einer SSD k"onnen Festplatten nahezu beliebig oft gel"oscht und neu beschrieben werden.
+			\\
+			Die Abbildung \ref{fig:hdd} zeigt den schematischen Aufbau einer Festplatte.
+			\begin{figure}[ht]
+				\centering
+				\includegraphics[width=0.6\textwidth]{images/hdd} 
+				\caption[Festplattenaufbau \cite{fig:hdd}]{Festplattenaufbau}
+				\label{fig:hdd}
+				\end{figure}
             \\
-            Das Anschlie"sen an einen PC erfolgt mittlerweile entweder intern "uber den Serial ATA-Anschlu"s oder extern "uber USB\footnote{Universal Serial Bus}, Firewire, Thunderbolt oder eSATA. 
+            Das Anschlie"sen an einen PC erfolgt mittlerweile entweder intern "uber den Serial ATA-Anschluss oder extern "uber USB\footnote{Universal Serial Bus}, Firewire, Thunderbolt oder eSATA. 
     
     
     %% ==============================
@@ -142,21 +149,22 @@
     
         Das optische Speichermedium erh"alt die Daten entweder mechanisch in einem Presswerk(meist kommerziell hergestellte Disks) oder "uber einen Laser(meist private so gennante \glqq gebrannte\grqq{} Disks) in Form von Erh"ohungen(Pits) und Vertiefungen(Lands) auf eine Scheibe. Meistens trifft man bei optischen Speichermedien auf die CD, der DVD oder der Blu-ray Disc. Diese unterscheiden sich in ihrer Speicherkapazit"at, jedoch nicht in ihrer physikalischen Gr"o"se – 8$"$ Durchmesser.
         \\
-		Die Funktionsweise ist nochmals in der Abbildung dargestellt.
+		Die Funktionsweise ist nochmals in der Abbildung \ref{fig:cd} dargestellt.
 		
 		\begin{figure}[ht]
 				\centering
-				\includegraphics[width=0.7\textwidth]{images/cd} 
+				\includegraphics[width=0.6\textwidth]{images/cd} 
 				\caption[Funktionsweise optisches Medium \cite{fig:cd}]{Funktionsweise optisches Medium}
 				\label{fig:cd}
 				\end{figure}
+				
         Die allgemeinen Verkaufszahlen von optischen Speichermedien sind in den letzten Jahren gesunken, da nun zunehmen durch h"ohere Bandbreiten des Internets sich neue Distributionswege er"offnet haben.
 		
 
         
 {%Gruppe auf   
 \label{ch:Technisch:sec:Optische SpeicherungM}     
-\begin{table}[h]
+\begin{table}[ht]
 \small
 \begin{tabular}{|p{3.8cm}|p{3.2cm}|p{3cm}|p{3cm}|}
 \hline
@@ -188,7 +196,9 @@ Vorstellung & 1981 & 1995 & 2002 \\
         
             Die Digital Versatile Disk\footnote{engl. f"ur digitale vielseitige Scheibe} ist der direkte Nachfolger der CD und wurde mit anwachsenden Speicherbedarf n"otig. 
             \\
-            Die h"ohere Speicherkapazit"at bei gleichen Durchmesser kommt durch verschiedene Techniken zu Stande. Zum einen wurden die Strahlen des Abtastlasers gek"uerzt und auch die Wellenl"ange wurde k"urzer. Der kleine Laserspot erm"oglichte dann feinere Fl"achen abzutasten und somit mehr Informationen pro Gr"o"seneinheit zu speichern. Au"serdem wurde im Jahr 2004 die Dual Layer DVD vorgestellt, also die \glqq Doppel-Schichten DVD\grqq{}. Somit konnte man doppelt soviele Daten wie auf einer Single Layer DVD speichern. Bis zu 8,5 Gigabyte waren nun m"oglich.
+            Die h"ohere Speicherkapazit"at bei gleichen Durchmesser kommt durch verschiedene Techniken zu Stande. Zum einen wurden die Strahlen des Abtastlasers gek"uerzt und auch die Wellenl"ange wurde k"urzer. 
+			\\
+			Der kleine Laserspot erm"oglichte dann feinere Fl"achen abzutasten und somit mehr Informationen pro Fl"acheneinheit zu speichern. Au"serdem wurde im Jahr 2004 die Dual Layer DVD vorgestellt, also die \glqq Doppel-Schichten DVD\grqq{}. Somit konnte man doppelt soviele Daten wie auf einer Single Layer DVD speichern. Bis zu 8,5 Gigabyte waren nun m"oglich.
         
         \subsection{Blu-Ray}
         %% ==============================

@@ -18,8 +18,8 @@
 \contentsline {section}{\numberline {3.2}Magnetische Speicherung}{9}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Festplatte}{10}{subsection.3.2.1}
 \contentsline {section}{\numberline {3.3}Optische Speicherung}{10}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}CD}{10}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}DVD}{10}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Blu-Ray}{11}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.1}CD}{11}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}DVD}{12}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Blu-Ray}{12}{subsection.3.3.3}
 \contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{13}{chapter.4}
 \contentsline {chapter}{Literaturverzeichnis}{15}{section*.2}

@@ -26,3 +26,6 @@ http://www.memory-king.info/bilder/beschreibung/SSD/SSD_innenleben_flash.jpg
 
 funktionsweise cd
 http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/CD_Prinzip.png/512px-CD_Prinzip.png
+
+festplatte
+http://www.mikrocontroller.net/wikifiles/f/f6/Festplatte_1.jpg
