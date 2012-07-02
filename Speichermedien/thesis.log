@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  2 JUL 2012 09:43
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  2 JUL 2012 10:04
 entering extended mode
 **thesis.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.tex
@@ -716,7 +716,7 @@ Package pdftex.def Info: images/hohlenmalerei.jpeg used on input line 43.
 File: images/speicherpyramide.png Graphic file (type png)
 
 <use images/speicherpyramide.png>
-Package pdftex.def Info: images/speicherpyramide.png used on input line 57.
+Package pdftex.def Info: images/speicherpyramide.png used on input line 58.
 (pdftex.def)             Requested size: 298.75264pt x 172.98999pt.
  [2 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/hohlenmalerei
 .jpeg>]) [3 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/speic
@@ -729,26 +729,33 @@ herpyramide.png>]
 ]
 Kapitel 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--28
+Underfull \hbox (badness 10000) in paragraph at lines 8--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--28
+Underfull \hbox (badness 10000) in paragraph at lines 8--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--28
+Underfull \hbox (badness 10000) in paragraph at lines 8--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--28
+Underfull \hbox (badness 10000) in paragraph at lines 8--26
 
  []
 
-[5]) [6] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\technisch.tex
+<images/presse.jpg, id=211, 587.19376pt x 643.40375pt>
+File: images/presse.jpg Graphic file (type jpg)
+ <use images/presse.jpg>
+Package pdftex.def Info: images/presse.jpg used on input line 29.
+(pdftex.def)             Requested size: 298.75264pt x 327.34616pt.
+
+[5]) [6 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/presse.jp
+g>] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\technisch.tex
 Kapitel 3.
 [7
 
@@ -873,10 +880,14 @@ cke-
 
 ] [16
 
-] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.lof)
-\tf@lof=\write6
+] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.lof
 
-[17] [18
+Package natbib Warning: Citation `fig:presse' on page 17 undefined on input lin
+e 6.
+
+)
+\tf@lof=\write6
+ [17] [18
 
 ] (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.lot)
 \tf@lot=\write7
@@ -885,6 +896,9 @@ cke-
 
 ]
 No file thesis.ind.
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.aux
@@ -901,13 +915,13 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
- 7646 strings out of 494045
- 110501 string characters out of 3145961
- 211421 words of memory out of 3000000
- 10640 multiletter control sequences out of 15000+200000
+ 7656 strings out of 494045
+ 110657 string characters out of 3145961
+ 211489 words of memory out of 3000000
+ 10646 multiletter control sequences out of 15000+200000
  51345 words of font info for 88 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 41i,11n,45p,886b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,45p,886b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
@@ -921,9 +935,9 @@ s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files
 86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (24 pages, 943028 bytes).
+Output written on thesis.pdf (24 pages, 990962 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 216 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 380 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
