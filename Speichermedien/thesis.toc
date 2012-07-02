@@ -16,7 +16,7 @@
 \contentsline {subsubsection}{\numberline {3.1.3.2}Flash-EEPROM}{9}{subsubsection.3.1.3.2}
 \contentsline {subsubsection}{\numberline {3.1.3.3}SSD}{9}{subsubsection.3.1.3.3}
 \contentsline {section}{\numberline {3.2}Magnetische Speicherung}{9}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Festplatte}{9}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}Festplatte}{10}{subsection.3.2.1}
 \contentsline {section}{\numberline {3.3}Optische Speicherung}{10}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}CD}{10}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}DVD}{10}{subsection.3.3.2}
