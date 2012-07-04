@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  4 JUL 2012 13:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  4 JUL 2012 13:24
 entering extended mode
 **thesis.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.tex
@@ -762,9 +762,9 @@ Kapitel 3.
 
 
 ]
-Overfull \hbox (14.45747pt too wide) in paragraph at lines 82--85
+Overfull \hbox (20.33746pt too wide) in paragraph at lines 82--85
 \T1/aer/m/n/12 EPROMs pro-gram-mie-ren kann, be-darf es spe-zi-el-ler Pro-gam-m
-ier-ge-rä-te  dem EPROM-
+ier-ge-rä-te --- dem EPROM-
  []
 
 [8] <images/ssd.jpg, id=238, 803.0pt x 552.0625pt>
@@ -996,7 +996,7 @@ s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (24 pages, 1260927 bytes).
+Output written on thesis.pdf (24 pages, 1260932 bytes).
 PDF statistics:
  429 PDF objects out of 1000 (max. 8388607)
  99 named destinations out of 1000 (max. 500000)
