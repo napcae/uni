@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 \select@language {ngerman}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces "alteste bekannte H"ohlenmalerei \cite {fig:hohle}}}{2}{figure.1.1}
@@ -10,12 +9,4 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Festplattenaufbau \cite {fig:hdd}}}{10}{figure.3.2}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Funktionsweise optisches Medium \cite {fig:cd}}}{11}{figure.3.3}
 \addvspace {10\p@ }
-=======
-\select@language {ngerman}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces "alteste bekannte H"ohlenmalerei \cite {fig:hohle}}}{2}{figure.1.1}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Speicherpyramide \cite {fig:Speicherpyramide}}}{3}{figure.1.2}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
->>>>>>> asdf
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Entwicklung Speicherkapazit"at Fesplatte in halblogarithmischer Skalierung \cite {fig:kapazit}}}{13}{figure.4.1}
