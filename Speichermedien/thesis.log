@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  4 JUL 2012 13:24
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  4 JUL 2012 13:39
 entering extended mode
 **thesis.tex
 (C:\Users\ctrungng\Documents\GitHub\uni\Speichermedien\thesis.tex
@@ -716,7 +716,7 @@ Package pdftex.def Info: images/hohlenmalerei.jpeg used on input line 43.
 File: images/speicherpyramide.png Graphic file (type png)
 
 <use images/speicherpyramide.png>
-Package pdftex.def Info: images/speicherpyramide.png used on input line 58.
+Package pdftex.def Info: images/speicherpyramide.png used on input line 56.
 (pdftex.def)             Requested size: 298.75264pt x 172.98999pt.
  [2 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/hohlenmalerei
 .jpeg>]) [3 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/speic
@@ -762,7 +762,7 @@ Kapitel 3.
 
 
 ]
-Overfull \hbox (20.33746pt too wide) in paragraph at lines 82--85
+Overfull \hbox (20.33746pt too wide) in paragraph at lines 84--87
 \T1/aer/m/n/12 EPROMs pro-gram-mie-ren kann, be-darf es spe-zi-el-ler Pro-gam-m
 ier-ge-rä-te --- dem EPROM-
  []
@@ -770,81 +770,81 @@ ier-ge-rä-te --- dem EPROM-
 [8] <images/ssd.jpg, id=238, 803.0pt x 552.0625pt>
 File: images/ssd.jpg Graphic file (type jpg)
  <use images/ssd.jpg>
-Package pdftex.def Info: images/ssd.jpg used on input line 106.
+Package pdftex.def Info: images/ssd.jpg used on input line 108.
 (pdftex.def)             Requested size: 298.75264pt x 205.39713pt.
 
 [9 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/ssd.jpg>]
 <images/hdd.jpg, id=247, 469.755pt x 415.5525pt>
 File: images/hdd.jpg Graphic file (type jpg)
  <use images/hdd.jpg>
-Package pdftex.def Info: images/hdd.jpg used on input line 136.
+Package pdftex.def Info: images/hdd.jpg used on input line 138.
 (pdftex.def)             Requested size: 256.07741pt x 226.53186pt.
 
-Overfull \hbox (4.01811pt too wide) in paragraph at lines 150--153
+Overfull \hbox (4.01811pt too wide) in paragraph at lines 152--155
 \T1/aer/m/n/12 gen-nan-te ge-brann-te Disks) in Form von Er-hö-hun-gen(Pits) 
 und Ver-tie-fun-gen(Lands)
  []
 
-<images/cd.png, id=250, 385.44pt x 361.35pt>
+[10 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/hdd.jpg>]
+<images/cd.png, id=257, 385.44pt x 361.35pt>
 File: images/cd.png Graphic file (type png)
  <use images/cd.png>
-Package pdftex.def Info: images/cd.png used on input line 156.
+Package pdftex.def Info: images/cd.png used on input line 158.
 (pdftex.def)             Requested size: 256.07741pt x 240.06866pt.
- [10 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/hdd.jpg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 169.
+(Font)              <10.95> on input line 171.
 
-Underfull \hbox (badness 6944) in paragraph at lines 172--172
+Underfull \hbox (badness 6944) in paragraph at lines 174--174
 []|\T1/aer/m/n/10.95 4,7 GB (Sin-gle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 \T1/aer/m/n/10.95 8,5 GB (Du-al
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []|\T1/aer/m/n/10.95 25 GB (Sin-gle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\T1/aer/m/n/10.95 176 KB/s (CD-
  []
 
 
-Overfull \hbox (1.0714pt too wide) in paragraph at lines 174--174
+Overfull \hbox (1.0714pt too wide) in paragraph at lines 176--176
 []|\T1/aer/m/n/10.95 Schreibgeschwindigkeit| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 []|\T1/aer/m/n/10.95 150 KB/s (1x)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 []|\T1/aer/m/n/10.95 4,5 MB/s (1x)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
 []|\T1/aer/m/n/10.95 Datenspeicher,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
 []|\T1/aer/m/n/10.95 Datenspeicher,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
 []|\T1/aer/m/n/10.95 Datenspeicher,
  []
 
 [11 <C:/Users/ctrungng/Documents/GitHub/uni/Speichermedien/images/cd.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 208--210
+Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
 
@@ -975,12 +975,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 0CD817461CED91DA5B5142D3DBF21C6F;1752.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
  7705 strings out of 494045
  111457 string characters out of 3145961
- 210043 words of memory out of 3000000
+ 209043 words of memory out of 3000000
  10680 multiletter control sequences out of 15000+200000
  50855 words of font info for 86 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -996,7 +1000,7 @@ s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (24 pages, 1260932 bytes).
+Output written on thesis.pdf (24 pages, 1260801 bytes).
 PDF statistics:
  429 PDF objects out of 1000 (max. 8388607)
  99 named destinations out of 1000 (max. 500000)
