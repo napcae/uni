@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 JUL 2012 10:33
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 JUL 2012 11:04
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -559,7 +559,8 @@ LaTeX Info: Redefining \cite on input line 694.
 
 
 Writing index file thesis.idx
-(./thesis.aux)
+(./thesis.aux (./titelseite.aux) (./erklaerung.aux) (./einleitung.aux)
+(./nichttechnisch.aux) (./technisch.aux) (./zusammenf.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -668,7 +669,7 @@ File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
 \Zweitgutachter=\box35
 
-<logos/HFTL_Deckblatt.pdf, id=4, 597.19112pt x 845.07718pt>
+<logos/HFTL_Deckblatt.pdf, id=104, 597.19112pt x 845.07718pt>
 File: logos/HFTL_Deckblatt.pdf Graphic file (type pdf)
 
 <use logos/HFTL_Deckblatt.pdf>
@@ -693,14 +694,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [2
 
 
-])
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+]) (./thesis.toc)
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
-[3
+ [3
 
 
 
@@ -711,10 +709,6 @@ Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
  (./einleitung.tex
 Kapitel 1.
-
-Package natbib Warning: Citation `wiki:Speicher' on page 1 undefined on input l
-ine 9.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -725,30 +719,18 @@ File: omsaer.fd 1999/12/27
 )
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
-
-
-Package natbib Warning: Citation `hansen:wi1' on page 1 undefined on input line
- 18.
-
-[1
+ [1
 
 
 ]
-
-LaTeX Warning: Reference `fig:hohlenmalerei' on page 2 undefined on input line 
-39.
-
-<images/hohlenmalerei.jpeg, id=59, 600.2425pt x 602.25pt>
+<images/hohlenmalerei.jpeg, id=186, 600.2425pt x 602.25pt>
 File: images/hohlenmalerei.jpeg Graphic file (type jpg)
 
 <use images/hohlenmalerei.jpeg>
 Package pdftex.def Info: images/hohlenmalerei.jpeg used on input line 43.
 (pdftex.def)             Requested size: 298.75264pt x 299.755pt.
 
-
-LaTeX Warning: Reference `fig:geschPyr' on page 2 undefined on input line 55.
-
-<images/speicherpyramide.png, id=62, 660.4675pt x 382.42876pt>
+<images/speicherpyramide.png, id=190, 660.4675pt x 382.42876pt>
 File: images/speicherpyramide.png Graphic file (type png)
 
 <use images/speicherpyramide.png>
@@ -764,18 +746,6 @@ Package pdftex.def Info: images/speicherpyramide.png used on input line 58.
 ]
 Kapitel 2.
 
-Package natbib Warning: Citation `spiegel:hoehle' on page 5 undefined on input 
-line 8.
-
-
-Package natbib Warning: Citation `carlen:kerbholz' on page 5 undefined on input
- line 11.
-
-
-LaTeX Warning: Reference `fig:druckerpresse' on page 5 undefined on input line 
-25.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 8--26
 
  []
@@ -795,7 +765,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--26
 
  []
 
-<images/presse.jpg, id=83, 587.19376pt x 643.40375pt>
+<images/presse.jpg, id=213, 587.19376pt x 643.40375pt>
 File: images/presse.jpg Graphic file (type jpg)
  <use images/presse.jpg>
 Package pdftex.def Info: images/presse.jpg used on input line 29.
@@ -816,32 +786,25 @@ Overfull \hbox (14.45747pt too wide) in paragraph at lines 82--85
 ier-ge-rä-te ^^U dem ^^REPROM-
  []
 
-[8] <images/ssd.jpg, id=119, 803.0pt x 552.0625pt>
+[8] <images/ssd.jpg, id=240, 803.0pt x 552.0625pt>
 File: images/ssd.jpg Graphic file (type jpg)
  <use images/ssd.jpg>
 Package pdftex.def Info: images/ssd.jpg used on input line 106.
 (pdftex.def)             Requested size: 298.75264pt x 205.39713pt.
 
-[9 <./images/ssd.jpg>]
-
-LaTeX Warning: Reference `fig:hdd' on page 10 undefined on input line 133.
-
-<images/hdd.jpg, id=130, 469.755pt x 415.5525pt>
+[9 <./images/ssd.jpg>] <images/hdd.jpg, id=249, 469.755pt x 415.5525pt>
 File: images/hdd.jpg Graphic file (type jpg)
- <use images/hdd.jpg>
+
+<use images/hdd.jpg>
 Package pdftex.def Info: images/hdd.jpg used on input line 136.
 (pdftex.def)             Requested size: 256.07741pt x 226.53186pt.
-
-
-LaTeX Warning: Reference `fig:cd' on page 10 undefined on input line 152.
-
 
 Overfull \hbox (4.01811pt too wide) in paragraph at lines 150--153
 \T1/aer/m/n/12 gen-nan-te ^^Rge-brann-te^^P Disks) in Form von Er-hö-hun-gen(Pi
 ts) und Ver-tie-fun-gen(Lands)
  []
 
-<images/cd.png, id=132, 385.44pt x 361.35pt>
+<images/cd.png, id=252, 385.44pt x 361.35pt>
 File: images/cd.png Graphic file (type png)
  <use images/cd.png>
 Package pdftex.def Info: images/cd.png used on input line 156.
@@ -899,10 +862,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\T1/aer/m/n/10.95 Datenspeicher,
  []
 
-
-LaTeX Warning: Reference `tab:vlgOptMed' on page 11 undefined on input line 190
-.
-
 [11 <./images/cd.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
@@ -913,20 +872,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  (./zusammenf.tex
 Kapitel 4.
-<images/kapazit.png, id=162, 1003.75pt x 716.6775pt>
+<images/kapazit.png, id=278, 1003.75pt x 716.6775pt>
 File: images/kapazit.png Graphic file (type png)
  <use images/kapazit.png>
 Package pdftex.def Info: images/kapazit.png used on input line 12.
 (pdftex.def)             Requested size: 298.75264pt x 213.30989pt.
-)
+
+
+LaTeX Warning: Reference `heise:ibm' on page 13 undefined on input line 21.
+
 [13
 
 
 
- <./images/kapazit.png>] [14
-
-
-] (./thesis.bbl
+ <./images/kapazit.png>]) [14] (./thesis.bbl
 Underfull \hbox (badness 1019) in paragraph at lines 11--15
 []\T1/aer/m/n/12 dpa, AFP, and boj, ``Ro-te han-d-ab-drücke sind äl-tes-te höh-
 len-ma-le-rei eu-
@@ -939,86 +898,95 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--15
  []
 
 
-Overfull \hbox (80.23518pt too wide) in paragraph at lines 22--24
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+[]\T1/aer/m/n/12 K. Krei-mei-er, ``Gu-ten-berg drucker-pres-se.'' http://www.kr
+eimeier-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 30--33
+[]\T1/aer/m/n/12 ``Ssd in-nen-le-ben.'' []$http : / / www . memory-[]king . inf
+o / bilder / beschreibung / SSD /
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 35--38
+[]\T1/aer/m/n/12 Wikipedia, ``Funk-ti-ons-prin-zip cd.'' []$http : / / upload .
+ wikimedia . org / wikipedia /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+[]\T1/aer/m/n/12 ``Festplattenaufbau.'' []$http : / / www . mikrocontroller . n
+et / wiki^^\les / f / f6 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+[]\T1/aer/m/n/12 Wikipedia, ``Ent-wick-lung fest-plat-ten-spei-cher-ka-pa-zi-tä
+t.'' []$http : / / commons .
+ []
+
+
+Overfull \hbox (80.23518pt too wide) in paragraph at lines 50--52
 []\T1/aer/m/n/12 ``Speicherpyramide.'' http://openbook.galileocomputing.de/linu
 x/bilder/speicherpyramide.png. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--29
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
 []\T1/aer/m/n/12 dpa, ``Höh-len-ma-le-rei.'' http://www.spiegel.de/fotostrecke/
 neandertaler-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--29
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
 \T1/aer/m/n/12 aelteste-hoehlenmalerei-europas-in-nordspanien-entdeckt-fotostre
 cke-
  []
 
-) [15
+[15
 
-] [16
 
-]
 
-Package hyperref Warning: old lof file detected, not used; run LaTeX again.
-
+]) [16] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
-[17] [18
+ [17
 
-]
+] [18
 
-Package hyperref Warning: old lot file detected, not used; run LaTeX again.
-
+] (./thesis.lot)
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
-[19] [20
+ [19] [20
 
 ]
 No file thesis.ind.
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
 (./thesis.aux (./titelseite.aux) (./erklaerung.aux) (./einleitung.aux)
-(./nichttechnisch.aux) (./technisch.aux) (./zusammenf.aux)
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+(./nichttechnisch.aux) (./technisch.aux) (./zusammenf.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: B187A7F2AC29B24DE14C6FEF42FA722B;1727.
 
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  B187A7F2AC29B24DE14C6FEF42FA722B;1727.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
- 7680 strings out of 493633
- 108394 string characters out of 3143378
- 205950 words of memory out of 3000000
- 10687 multiletter control sequences out of 15000+200000
+ 7755 strings out of 493633
+ 109541 string characters out of 3143378
+ 210417 words of memory out of 3000000
+ 10738 multiletter control sequences out of 15000+200000
  50855 words of font info for 86 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 41i,11n,45p,886b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,47p,886b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
@@ -1030,10 +998,10 @@ al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/loca
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loc
 al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (24 pages, 1209272 bytes).
+Output written on thesis.pdf (24 pages, 1217090 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 87 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 357 compressed objects within 4 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 

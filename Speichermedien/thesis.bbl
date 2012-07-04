@@ -18,6 +18,34 @@ L.~Carlen, ``Zum rechtlichen gebrauch von kerbh{\"o}lzern im 17. jahrhundert,''
   {\em Forschungen zur Rechtsarch{\"a}ologie und Rechtlichen Volkskunde},
   vol.~13, pp.~173--177, 1991.
 
+\bibitem{heise:ibm}
+C.~Windeck, ``Ibm-forscher speichern ein bit in zw{\"o}lf atomen.''
+  http://heise.de/-1412899, January 2012.
+
+\bibitem{fig:presse}
+K.~Kreimeier, ``Gutenberg druckerpresse.''
+  http://www.kreimeier-online.de/presse.jpg, June 2012.
+
+\bibitem{fig:ssd}
+``Ssd innenleben.''
+  \url{http://www.memory-king.info/bilder/beschreibung/SSD/SSD_innenleben_flash.jpg},
+  June 2012.
+
+\bibitem{fig:cd}
+Wikipedia, ``Funktionsprinzip cd.''
+  \url{http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/CD_Prinzip.png/512px-CD_Prinzip.png},
+  June 2012.
+
+\bibitem{fig:hdd}
+``Festplattenaufbau.''
+  \url{http://www.mikrocontroller.net/wikifiles/f/f6/Festplatte_1.jpg}, June
+  2012.
+
+\bibitem{fig:kapazit}
+Wikipedia, ``Entwicklung festplattenspeicherkapazit{\"a}t.''
+  \url{http://commons.wikimedia.org/wiki/File:Hard_drive_capacity_over_time.png},
+  June 2012.
+
 \bibitem{fig:Speicherpyramide}
 ``Speicherpyramide.''
   http://openbook.galileocomputing.de/linux/bilder/speicherpyramide.png.
@@ -29,7 +57,7 @@ dpa, ``H{\"o}hlenmalerei.''
 
 \bibitem{book:linux}
 J.~Pl{\"o}tner and S.~Wendzel, {\em Linux}.
-\newblock No.~5, Galileo Computing, 2012.
+\newblock No.~5 in 1, Galileo Computing, 2012.
 
 \bibitem{web:speicherpyramide}
 J.-C. Brendel, ``Im delta des datenflusses,'' {\em Linux Magazin}, 11 2004.
