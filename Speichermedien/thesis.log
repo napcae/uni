@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 JUL 2012 11:04
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 JUL 2012 11:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -872,14 +872,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  (./zusammenf.tex
 Kapitel 4.
-<images/kapazit.png, id=278, 1003.75pt x 716.6775pt>
+<images/kapazit.png, id=280, 1003.75pt x 716.6775pt>
 File: images/kapazit.png Graphic file (type png)
  <use images/kapazit.png>
 Package pdftex.def Info: images/kapazit.png used on input line 12.
 (pdftex.def)             Requested size: 298.75264pt x 213.30989pt.
-
-
-LaTeX Warning: Reference `heise:ibm' on page 13 undefined on input line 21.
 
 [13
 
@@ -898,58 +895,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--15
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--28
-[]\T1/aer/m/n/12 K. Krei-mei-er, ``Gu-ten-berg drucker-pres-se.'' http://www.kr
-eimeier-
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+[]\T1/aer/m/n/12 R. Wo-j-ciechow-ski, ``Wie schnell kann man da-ten auf ei-ne
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 30--33
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+\T1/aer/m/n/12 blu-ray disc schrei-ben/lesen?.'' []$http : / / www . bluray-[]d
+isc . de / faq /
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 32--34
+[]\T1/aer/m/n/12 Wikipedia, ``Read on-ly me-mo-ry.'' []$http : / / en . wikiped
+ia . org / wiki / Read-[]only _
+ []
+
+
+Overfull \hbox (23.97903pt too wide) in paragraph at lines 47--49
+[]\T1/aer/m/n/12 Wikipedia, ``Fes-plat-ten-lauf-werk.'' http://de.wikipedia.org
+/wiki/Festplattenlaufwerk,
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 51--53
+[]\T1/aer/m/n/12 K. Krei-mei-er, ``Gu-ten-berg drucker-pres-se.'' []$http : / /
+ www . kreimeier-[]online . de /
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 55--58
 []\T1/aer/m/n/12 ``Ssd in-nen-le-ben.'' []$http : / / www . memory-[]king . inf
 o / bilder / beschreibung / SSD /
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 35--38
+Underfull \hbox (badness 3058) in paragraph at lines 60--63
 []\T1/aer/m/n/12 Wikipedia, ``Funk-ti-ons-prin-zip cd.'' []$http : / / upload .
  wikimedia . org / wikipedia /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--43
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 []\T1/aer/m/n/12 ``Festplattenaufbau.'' []$http : / / www . mikrocontroller . n
 et / wiki^^\les / f / f6 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--48
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
 []\T1/aer/m/n/12 Wikipedia, ``Ent-wick-lung fest-plat-ten-spei-cher-ka-pa-zi-tä
 t.'' []$http : / / commons .
- []
-
-
-Overfull \hbox (80.23518pt too wide) in paragraph at lines 50--52
-[]\T1/aer/m/n/12 ``Speicherpyramide.'' http://openbook.galileocomputing.de/linu
-x/bilder/speicherpyramide.png. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
-[]\T1/aer/m/n/12 dpa, ``Höh-len-ma-le-rei.'' http://www.spiegel.de/fotostrecke/
-neandertaler-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
-\T1/aer/m/n/12 aelteste-hoehlenmalerei-europas-in-nordspanien-entdeckt-fotostre
-cke-
  []
 
 [15
 
 
 
-]) [16] (./thesis.lof)
+]
+Overfull \hbox (80.23518pt too wide) in paragraph at lines 75--77
+[]\T1/aer/m/n/12 ``Speicherpyramide.'' http://openbook.galileocomputing.de/linu
+x/bilder/speicherpyramide.png. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+[]\T1/aer/m/n/12 dpa, ``Höh-len-ma-le-rei.'' http://www.spiegel.de/fotostrecke/
+neandertaler-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+\T1/aer/m/n/12 aelteste-hoehlenmalerei-europas-in-nordspanien-entdeckt-fotostre
+cke-
+ []
+
+) [16] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
@@ -973,20 +993,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: B187A7F2AC29B24DE14C6FEF42FA722B;1727.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
- 7755 strings out of 493633
- 109541 string characters out of 3143378
- 210417 words of memory out of 3000000
- 10738 multiletter control sequences out of 15000+200000
+ 7778 strings out of 493633
+ 109968 string characters out of 3143378
+ 210513 words of memory out of 3000000
+ 10755 multiletter control sequences out of 15000+200000
  50855 words of font info for 86 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 41i,11n,47p,886b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,47p,886b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
@@ -998,10 +1014,10 @@ al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/loca
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loc
 al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
 l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (24 pages, 1217090 bytes).
+Output written on thesis.pdf (24 pages, 1218374 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
- 93 named destinations out of 1000 (max. 500000)
+ 434 PDF objects out of 1000 (max. 8388607)
+ 374 compressed objects within 4 object streams
+ 99 named destinations out of 1000 (max. 500000)
  241 words of extra memory for PDF output out of 10000 (max. 10000000)
 
