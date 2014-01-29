@@ -1,19 +1,21 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.1)  26 JUN 2012 12:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.12.13)  25 JAN 2014 15:21
 entering extended mode
-**wissdoc.tex
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.
 
 ! Emergency stop.
-<*> wissdoc.tex
-               
-*** (job aborted, file error in nonstop mode)
+<*> thesis.
+           
+End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 2 strings out of 494045
- 17 string characters out of 3145961
- 48890 words of memory out of 3000000
- 3399 multiletter control sequences out of 15000+200000
- 3640 words of font info for 14 fonts, out of 3000000 for 9000
- 715 hyphenation exceptions out of 8191
- 0i,0n,0p,1b,6s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 4 strings out of 494536
+ 101 string characters out of 6167445
+ 46958 words of memory out of 5000000
+ 3354 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 0i,0n,0p,1b,6s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

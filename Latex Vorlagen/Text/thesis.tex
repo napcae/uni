@@ -10,6 +10,9 @@
 % ------------------------------------------------------------------
 % Weitere packages: (Dokumentation dazu durch "latex <package>.dtx")
 \usepackage[numbers,sort&compress]{natbib}
+\usepackage{float}
+\restylefloat{table}
+%für tabellen [H] benutzen
 % \usepackage{varioref}
 % \usepackage{verbatim}
 % \usepackage{float}    %z.B. \floatstyle{ruled}\restylefloat{figure}
@@ -137,6 +140,7 @@ zusammenf  % Zusammenfassung der Ergebnisse und Ausblick
 \cleardoublepage
 \phantomsection
 \addcontentsline{toc}{chapter}{\bibname}
+% $ bibtex thesis
 %%
 \nocite{*} % nur angeben, wenn auch nicht im Text zitierte Quellen 
            % erscheinen sollen
