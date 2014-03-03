@@ -1,5 +1,6 @@
 \documentclass{wissdoc}
-% Autor: Roland Bless 1996-2009, bless <at> kit.edu
+% Autor: Chi Trung Nguyen 2013-2014, chitrungnguyen <at> me.com
+% Vorlagenautor: Roland Bless 1996-2009, bless <at> kit.edu
 % ----------------------------------------------------------------
 % Diplomarbeit - Hauptdokument
 % ----------------------------------------------------------------
@@ -11,8 +12,18 @@
 % Weitere packages: (Dokumentation dazu durch "latex <package>.dtx")
 \usepackage[numbers,sort&compress]{natbib}
 \usepackage{float}
-\restylefloat{table}
-%für tabellen [H] benutzen
+\restylefloat{table} %!damit tabellen dort auftauchen, wo sie beschrieben werden([H] benutzen!)
+\usepackage[official]{eurosym} % für Eurosymbol
+\usepackage{listings} %für Quellcode
+\lstset{
+  literate={Ö}{{\"O}}1
+{Ä}{{\"A}}1
+{Ü}{{\"U}}1
+{ß}{{\ss}}2
+{ü}{{\"u}}1
+{ä}{{\"a}}1
+{ö}{{\"o}}1
+}
 % \usepackage{varioref}
 % \usepackage{verbatim}
 % \usepackage{float}    %z.B. \floatstyle{ruled}\restylefloat{figure}
@@ -127,10 +138,11 @@ zusammenf  % Zusammenfassung der Ergebnisse und Ausblick
 %% ++++++++++++++++++++++++++++++++++++++++++
 %% Anhang
 %% ++++++++++++++++++++++++++++++++++++++++++
-
+\phantomsection
 \appendix
-%\include{anhang_a}
-%\include{anhang_b}
+\include{
+\input{anhang_a}
+\input{anhang_b}}
 
 %% ++++++++++++++++++++++++++++++++++++++++++
 %% Literatur
@@ -142,13 +154,17 @@ zusammenf  % Zusammenfassung der Ergebnisse und Ausblick
 \addcontentsline{toc}{chapter}{\bibname}
 % $ bibtex thesis
 %%
-\nocite{*} % nur angeben, wenn auch nicht im Text zitierte Quellen 
+%\nocite{*} % nur angeben, wenn auch nicht im Text zitierte Quellen 
            % erscheinen sollen
-\bibliographystyle{itmabbrv} % mit abgekürzten Vornamen der Autoren
+\bibliographystyle{ieeetr} % mit abgekürzten Vornamen der Autoren
 %\bibliographystyle{gerplain} % abbrvnat unsrtnat
+%\bibliographystyle{plainurl} % abbrvnat unsrtnat
 % spezielle Zitierstile: Labels mit vier Buchstaben und Jahreszahl
 %\bibliographystyle{itmalpha}  % ausgeschriebene Vornamen der Autoren
 \bibliography{thesis}
+
+\listoffigures
+\listoftables
 %% ++++++++++++++++++++++++++++++++++++++++++
 %% Index
 %% ++++++++++++++++++++++++++++++++++++++++++
