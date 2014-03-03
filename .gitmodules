@@ -1,0 +1,3 @@
+[submodule "SHA2"]
+	path = SHA2
+	url = git@github.com:napcae/SHA2.git
