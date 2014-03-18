@@ -23,3 +23,4 @@
 \contentsline {section}{\numberline {6.2}Abschnitt 2}{15}{section.6.2}
 \contentsline {section}{\numberline {6.3}Zusammenfassung}{15}{section.6.3}
 \contentsline {chapter}{\numberline {7}Zusammenfassung und Ausblick}{17}{chapter.7}
+\contentsline {chapter}{Literaturverzeichnis}{19}{section*.3}
