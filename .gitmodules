@@ -4,3 +4,6 @@
 [submodule "BachelorThesis"]
 	path = BachelorThesis
 	url = git@github.com:napcae/BachelorThesis.git
+[submodule "WAB3"]
+	path = WAB3
+	url = git@github.com:napcae/wab3.git
