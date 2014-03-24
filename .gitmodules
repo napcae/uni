@@ -1,3 +1,6 @@
 [submodule "SHA2"]
 	path = SHA2
 	url = git@github.com:napcae/SHA2.git
+[submodule "BachelorThesis"]
+	path = BachelorThesis
+	url = git@github.com:napcae/BachelorThesis.git
